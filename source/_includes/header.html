@@ -34,17 +34,13 @@
 </nav> -->
 <div class="profile-container">
   <div class="profilepic">
-    <script type="text/javascript">
-$(function(){
-  $('.profilepic').append("<img src='http://www.gravatar.com/avatar/" + "{{ site.email | downcase }}" + "?s=160' alt='Profile Picture' style='width: 160px;' />");
-});
-    </script>
+    <img src='http://placekitten.com/160/160' alt='Profile Picture' style='width: 160px;' />
   </div>
   <hgroup>
-  <h1 class="site-title"><a href="{{ root_url }}/">{{ site.title }}</a></h1>
-  {% if site.subtitle %}
-  <p class="site-subtitle">{{ site.subtitle }}</p>
-  {% endif %}
+    <h1 class="site-title"><a href="{{ root_url }}/">{{ site.title }}</a></h1>
+    {% if site.subtitle %}
+    <p class="site-subtitle">{{ site.subtitle }}</p>
+    {% endif %}
   </hgroup>
   {% include custom/header.html %}
 </div>
