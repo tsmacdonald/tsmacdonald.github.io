@@ -6,4 +6,4 @@ comments: false
 sharing: false
 footer: false
 ---
-Whoa, Soundcloud will totally be embedded here!!
+[Soundcloud will be embedded here...]
