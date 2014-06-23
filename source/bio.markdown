@@ -6,9 +6,10 @@ comments: false
 sharing: false
 footer: false
 ---
-Heralded as "one of the best up-and-coming" players in the country (Melinda Crawford) and "a *real* fiddler" (Bonnie Rideout), Tim Macdonald is a regular performer,
-composer, and teacher of Scottish-Baroque music. A national prize-winner, Tim has performed with [Colyn Fischer](http://www.scotsduo.com/),
-[Alasdair Fraser and Natalie Haas](http://www.alasdairfraser.com/), and [Rachel Barton Pine](http://classical.rachelbartonpine.com/), among others.
+"One of the best up-and-coming" players in the country and "a *real* fiddler", Tim Macdonald is a regular performer,
+composer, and teacher of Scottish-Baroque music. A national champion Scottish fiddler, Tim has performed with
+[Rachel Barton Pine](http://classical.rachelbartonpine.com/), [Colyn Fischer](http://www.scotsduo.com/), and
+[Alasdair Fraser and Natalie Haas](http://www.alasdairfraser.com/), among others.
 He made his New York debut in a sold-out performance at the Frick Collection as a guest soloist with [Trio Settecento](http://www.triosettecento.com/), and has also
 appeared with the Trio on WQXR classical radio.
 
