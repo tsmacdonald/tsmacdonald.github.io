@@ -6,7 +6,7 @@ comments: false
 sharing: false
 footer: false
 ---
-"One of the best up-and-coming" players in the country and "a *real* fiddler", Tim Macdonald is a regular performer,
+Heralded as "one of the best up-and-coming" players in the country and "a *real* fiddler", Tim Macdonald is a regular performer,
 composer, and teacher of Scottish-Baroque music. A national champion Scottish fiddler, Tim has performed with
 [Rachel Barton Pine](http://classical.rachelbartonpine.com/), [Colyn Fischer](http://www.scotsduo.com/), and
 [Alasdair Fraser and Natalie Haas](http://www.alasdairfraser.com/), among others.
