@@ -14,3 +14,7 @@ He made his New York debut in a sold-out performance at the Frick Collection as 
 appeared with the Trio on WQXR classical radio.
 
 [Contact Tim](/contact.html) to book him for solo performances of any size, Scottish country dances, music workshops, and private lessons (in-person in Chicago or remotely via webcam).
+
+{% img right assets/fiddles.jpg  %}
+
+&nbsp;
