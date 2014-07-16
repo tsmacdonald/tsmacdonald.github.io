@@ -50,3 +50,11 @@
     }
   }
 }
+.fiddles {
+  margin: 0 auto;
+  max-width: 50%;
+  @media screen and (min-width: 900px) {
+    float: right;
+    margin: 0 -25% 0 2em;
+  }
+}
