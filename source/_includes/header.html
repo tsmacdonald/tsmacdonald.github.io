@@ -34,12 +34,16 @@
 </nav> -->
 <div class="profile-container">
   <div class="profilepic">
-    <img src='assets/profile.jpg' alt='Profile Picture' style='width: 160px;' />
+    <a href="{{ root_url }}/">
+      <img src='assets/profile.jpg' alt='Profile Picture' style='width: 160px;' />
+    </a>
   </div>
   <hgroup>
     <h1 class="site-title"><a href="{{ root_url }}/">{{ site.title }}</a></h1>
     {% if site.subtitle %}
-    <p class="site-subtitle">{{ site.subtitle }}</p>
+      <a href="{{ root_url }}/">
+        <p class="site-subtitle">{{ site.subtitle }}</p>
+      </a>
     {% endif %}
   </hgroup>
   <nav id="main-nav">{% include navigation.html %}</nav>

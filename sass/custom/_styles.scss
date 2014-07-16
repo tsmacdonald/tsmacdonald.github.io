@@ -12,20 +12,32 @@
     display: none;
   }
   .ss-form-entry {
-    label {
-      display:block;
-    }
-    input {
+    input[type='text'] {
+      background: none;
+      border: none;
+      border-bottom: 1px dashed rgb(38, 39, 34);
       display: block;
-      padding: 5px;
+      padding: 5px 0;
       width: 250px;
       font: inherit;
     }
+    input[type='submit'] {
+      background: rgb(38, 39, 34);
+      color: #fff;
+      border: none;
+      font-size: .8em;
+      padding: 1em 2em;
+    }
     textarea {
+      background: none;
+      border: 1px solid rgb(38, 39, 34);
       width: 450px;
       padding: 5px;
       font: inherit;
     }
+  }
+  .ss-q-title {
+    margin-bottom: 1em;
   }
   .ss-navigate input {
     width: auto;
