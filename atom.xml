@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[T. S. Macdonald]]></title>
-  <link href="http://tsmacdonald.github.io/atom.xml" rel="self"/>
-  <link href="http://tsmacdonald.github.io/"/>
-  <updated>2014-07-15T22:10:39-05:00</updated>
-  <id>http://tsmacdonald.github.io/</id>
+  <link href="http://tsmacdonald.com/atom.xml" rel="self"/>
+  <link href="http://tsmacdonald.com/"/>
+  <updated>2014-07-16T00:03:34-05:00</updated>
+  <id>http://tsmacdonald.com/</id>
   <author>
     <name><![CDATA[Tim Macdonald]]></name>
     

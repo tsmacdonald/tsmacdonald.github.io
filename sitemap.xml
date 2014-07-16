@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://tsmacdonald.github.io/bio.html</loc>
+        <loc>http://tsmacdonald.com/bio.html</loc>
         <lastmod>2014-07-15T21:56:36-05:00</lastmod>
     </url>
     <url>
-        <loc>http://tsmacdonald.github.io/blog/archives/</loc>
+        <loc>http://tsmacdonald.com/blog/archives/</loc>
         <lastmod>2014-06-20T21:43:19-05:00</lastmod>
     </url>
     <url>
-        <loc>http://tsmacdonald.github.io/contact.html</loc>
+        <loc>http://tsmacdonald.com/contact.html</loc>
         <lastmod>2014-06-23T00:01:10-05:00</lastmod>
     </url>
     <url>
-        <loc>http://tsmacdonald.github.io/</loc>
+        <loc>http://tsmacdonald.com/</loc>
         <lastmod>2014-07-15T22:10:38-05:00</lastmod>
     </url>
     <url>
-        <loc>http://tsmacdonald.github.io/recordings.html</loc>
+        <loc>http://tsmacdonald.com/recordings.html</loc>
         <lastmod>2014-06-22T22:49:47-05:00</lastmod>
     </url>
     <url>
-        <loc>http://tsmacdonald.github.io/robots.txt</loc>
+        <loc>http://tsmacdonald.com/robots.txt</loc>
         <lastmod>2014-06-20T21:43:19-05:00</lastmod>
     </url>
     <url>
-        <loc>http://tsmacdonald.github.io/tunes.html</loc>
+        <loc>http://tsmacdonald.com/tunes.html</loc>
         <lastmod>2014-06-20T21:43:19-05:00</lastmod>
     </url>
 </urlset>
