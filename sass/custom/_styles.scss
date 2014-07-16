@@ -38,3 +38,15 @@
     display: none;
   }
 }
+.container .left-col #header #main-nav ul {
+  @media screen and (max-width: 900px){ 
+    display: block;
+    text-align: center;
+
+    @media screen and (max-width: 768px){ 
+      li {
+        display: list-item;
+      }
+    }
+  }
+}
