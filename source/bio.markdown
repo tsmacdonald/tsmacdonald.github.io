@@ -15,6 +15,7 @@ performer, composer, and teacher of Scottish-Baroque music. The reigning US Nati
 first to win the title on a Baroque violin), Tim has performed with [Rachel Barton Pine](http://classical.rachelbartonpine.com/),
 [Colyn Fischer](http://www.scotsduo.com/), and [Jerry Fuller](http://arsantiguapresents.com/about/about-jerry-fuller/), among others.
 He made his New York debut in a sold-out performance at the Frick Collection as a guest soloist with [Trio Settecento](http://www.triosettecento.com/),
-and has also appeared with the Trio on WQXR classical radio.
+and has also appeared with the Trio on WQXR classical radio. He also plays the viola d'amore, harpsichord, and
+concertina, is a software engineer, and recently ran the Chicago Marathon for charity.
 
 [Contact Tim](/contact.html) to book him for solo performances of any size, Scottish country dances, music workshops, and private lessons (in-person in Chicago or remotely via webcam).
