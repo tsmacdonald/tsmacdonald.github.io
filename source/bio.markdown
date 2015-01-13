@@ -7,7 +7,9 @@ sharing: false
 footer: false
 ---
 <figure class="fiddles">
-  {% img assets/fiddles.jpg  %}
+  <a href="assets/fiddles.jpg">
+    {% img assets/fiddles.jpg  %}
+  </a>
   <figcaption>Tim's three main fiddles: an 1807 violin made by William Ferguson in Edinburgh, a reproduction Baroque violin, and a reproduction pochette.</figcaption>
 </figure>
 
