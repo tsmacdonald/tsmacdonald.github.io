@@ -41,6 +41,22 @@
 		}
 	}
 }
+
+.fiddles {
+  figcaption {
+    font-size: 10pt;
+  }
+}
+
+#main-picture {
+  img {
+    width: 100%;
+  }
+  figcaption {
+    font-size: 7pt;
+    text-align: right;
+  }
+}
 .video-player {
   @media only screen and (max-width: 1140px) and (min-width: 900px) {
     width: 166.67%;

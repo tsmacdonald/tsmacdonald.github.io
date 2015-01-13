@@ -8,6 +8,7 @@ footer: false
 ---
 <figure class="fiddles">
   {% img assets/fiddles.jpg  %}
+  <figcaption>Tim's three main fiddles: an 1807 violin made by William Ferguson in Edinburgh, a reproduction Baroque violin, and a reproduction pochette.</figcaption>
 </figure>
 
 Heralded for his "impressive and stylistically Scottish playing" ([Melinda Crawford](http://www.melindacrawford.com/))
