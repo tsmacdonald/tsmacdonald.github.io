@@ -16,7 +16,7 @@ footer: false
 |April 6, 7PM      | [English Country Dance](http://www.fnal.gov/orgs/folkdance/english/) called by [Susan de Guardiola](http://www.kickery.com/) with [The Cosmic Otters](http://thecosmicotters.com/) | Oak Park, IL
 |April 10, 12PM    | Bluegrass performance in honor of [Rod Whitacre](http://www.tsm.edu/whitacrecelebration) | Ambridge, PA
 |May 2, 7PM        | [English Country Dance](http://www.urbana-contra.org/sched_summer.html) with [Old Fezziwig's Band](http://www.oldfezziwigsband.com) | Urbana, IL
-|May 3, 7PM        | [Scottish Country Dance](http://www.rscds-chicago.org/) with Kate Shuldiner | Chicago, IL
+|May 3, 7PM        | [Scottish Country Dance](http://www.rscds-chicago.org/) with [Kate Shuldiner](/shuldiner.html) | Chicago, IL
 |May 5, 7PM        | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |May 12, 7PM       | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |May 17, 2PM       | Free Scottish performance with [Jeremy Ward](http://www.jeremydavidward.com/) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
@@ -24,8 +24,8 @@ footer: false
 |May 19, 7PM       | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |May 26, 7PM       | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |May 27, 7PM       | Performance at a [St Andrews Society](http://www.chicagoscots.org) dinner | Chicago, IL
-|June 13, TBD      | Scottish concert with Kate Shuldiner at the [Riverside Folk Festival](http://www.rside.org/event/) | [Cantigny Park](http://www.cantigny.org/) <br> Wheaton, IL
-|June 19, 7:30PM   | Scottish concert with Kate Shuldiner at the [Chicago Highland Games](http://www.chicagoscots.org/highlandgames/) | [Hamilton Lakes](http://www.hamiltonpartners.com/location_overview.php?id=43&region=IL&type=office) <br> Itasca, IL
+|June 13, TBD      | Scottish concert with [Kate Shuldiner](/shuldiner.html) at the [Riverside Folk Festival](http://www.rside.org/event/) | [Cantigny Park](http://www.cantigny.org/) <br> Wheaton, IL
+|June 19, 7:30PM   | Scottish concert with [Kate Shuldiner](/shuldiner.html) at the [Chicago Highland Games](http://www.chicagoscots.org/highlandgames/) | [Hamilton Lakes](http://www.hamiltonpartners.com/location_overview.php?id=43&region=IL&type=office) <br> Itasca, IL
 |June 20, 11:30AM & 3:00PM | Scottish concert with [Jeremy Ward](http://www.jeremydavidward.com/) at the [Chicago Highland Games](http://www.chicagoscots.org/highlandgames/) | [Hamilton Lakes](http://www.hamiltonpartners.com/location_overview.php?id=43&region=IL&type=office) <br> Itasca, IL
 |June 27, 9AM      | [Ohio Scottish Games](www.ohioscottishgames.com/#!competitions/vstc4=fiddle) fiddle competition | Wellington, OH
 |July 20-Aug. 7    | Instructor at [The Jink and Diddle School of Scottish Fiddling](http://www.jinkdiddle.com/) | Valle Crucis, NC
