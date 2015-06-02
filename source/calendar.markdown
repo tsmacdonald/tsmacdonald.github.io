@@ -35,7 +35,8 @@ footer: false
 |July 20-Aug. 7    | Instructor at [The Jink and Diddle School of Scottish Fiddling](http://www.jinkdiddle.com/) | Valle Crucis, NC
 |Aug. 23           | Private wedding | Chicagoland, IL
 |Sept. 12, 1PM     | [US National Scottish Fiddling Competition](http://www.edinboro.edu/events/highland-games/competition-entries/regional-fiddle-competition.html) | Edinboro, PA
-|Oct. 3, 7PM       | Scottish concert and ceilidh dance with [Character Fleadh](http://www.reverbnation.com/characterfleadh) | Itasca, IL
+|Sept. 19, 5PM     | Scottish performance with [Character Fleadh](http://www.reverbnation.com/characterfleadh) at the [Brew at the Bridge](http://www.brewatthebridge.com/) | Oswego, IL
+|Oct. 3, 7PM       | Scottish concert and ceilidh dance with [Character Fleadh](http://www.reverbnation.com/characterfleadh) at the Clan MacPherson Reunion | Itasca, IL
 |Oct. 25           | [Glenfiddich Fiddle Championship](http://www.glenfiddich.com/uk/explore/latest-events/glenfiddich-fiddle-championship/) | Blair Castle <br> Perthshire, Scotland
 
 Interested in having Tim play at your event? [Book him now!](/contact.html)
