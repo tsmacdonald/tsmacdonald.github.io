@@ -26,11 +26,11 @@ footer: false
 |May 27, 7PM       | Performance at a [St Andrews Society](http://www.chicagoscots.org) dinner | Chicago, IL
 |June 2, 7PM       | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |June 9, 7PM       | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
-|June 13, TBD      | Scottish concert with [Kate Shuldiner](/shuldiner.html) at the [Riverside Folk Festival](http://www.rside.org/event/) | [Cantigny Park](http://www.cantigny.org/) <br> Wheaton, IL
+|June 13           | Scottish concert with [Kate Shuldiner](/shuldiner.html) at the [Riverside Folk Festival](http://www.rside.org/event/) | [Cantigny Park](http://www.cantigny.org/) <br> Wheaton, IL
 |June 16, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |June 19, 7:30PM   | Scottish concert with [Kate Shuldiner](/shuldiner.html) at the [Chicago Highland Games](http://www.chicagoscots.org/highlandgames/) | [Hamilton Lakes](http://www.hamiltonpartners.com/location_overview.php?id=43&region=IL&type=office) <br> Itasca, IL
 |June 20, 11:30AM & 3:00PM | Scottish concert with [Jeremy Ward](http://www.jeremydavidward.com/) at the [Chicago Highland Games](http://www.chicagoscots.org/highlandgames/) | [Hamilton Lakes](http://www.hamiltonpartners.com/location_overview.php?id=43&region=IL&type=office) <br> Itasca, IL
-|June 27, 9AM      | [Ohio Scottish Games](www.ohioscottishgames.com/#!competitions/vstc4=fiddle) fiddle competition | Wellington, OH
+|June 27, 9AM      | [Ohio Scottish Games](http://www.ohioscottishgames.com/#!competitions/vstc4=fiddle) fiddle competition | Wellington, OH
 |June 30, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |July 2            | Fiddle and harpsichord concert at a private dinner party | Grafton, WI
 |July 7, 7PM       | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
