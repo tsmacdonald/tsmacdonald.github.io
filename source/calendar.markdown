@@ -32,10 +32,20 @@ footer: false
 |June 20, 11:30AM & 3:00PM | Scottish concert with [Jeremy Ward](http://www.jeremydavidward.com/) at the [Chicago Highland Games](http://www.chicagoscots.org/highlandgames/) | [Hamilton Lakes](http://www.hamiltonpartners.com/location_overview.php?id=43&region=IL&type=office) <br> Itasca, IL
 |June 27, 9AM      | [Ohio Scottish Games](www.ohioscottishgames.com/#!competitions/vstc4=fiddle) fiddle competition | Wellington, OH
 |June 30, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
+|July 2            | Fiddle and harpsichord concert at a private dinner party | Grafton, WI
+|July 7, 7PM       | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
+|July 9, 6:30PM    | [Midwest Fiddle Championship](http://www.squareroots.org/fiddle/) | [Old Town School of Folk Music](https://www.oldtownschool.org/) <br> Chicago, IL
+|July 11, 1:45PM   | [Midwest Fiddle Championship Finals](http://www.squareroots.org/fiddle/) | [Old Town School of Folk Music](https://www.oldtownschool.org/) <br> Chicago, IL
+|July 14, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |July 20-Aug. 7    | Instructor at [The Jink and Diddle School of Scottish Fiddling](http://www.jinkdiddle.com/) | Valle Crucis, NC
 |Aug. 23           | Private wedding | Chicagoland, IL
+|Sept. 1, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
+|Sept. 8, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |Sept. 12, 1PM     | [US National Scottish Fiddling Competition](http://www.edinboro.edu/events/highland-games/competition-entries/regional-fiddle-competition.html) | Edinboro, PA
+|Sept. 15, 7PM     | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |Sept. 19, 5PM     | Scottish performance with [Character Fleadh](http://www.reverbnation.com/characterfleadh) at the [Brew at the Bridge](http://www.brewatthebridge.com/) | Oswego, IL
+|Sept. 22, 7PM     | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
+|Sept. 29, 7PM     | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |Oct. 3, 7PM       | Scottish concert and ceilidh dance with [Character Fleadh](http://www.reverbnation.com/characterfleadh) at the Clan MacPherson Reunion | Itasca, IL
 |Oct. 25           | [Glenfiddich Fiddle Championship](http://www.glenfiddich.com/uk/explore/latest-events/glenfiddich-fiddle-championship/) | Blair Castle <br> Perthshire, Scotland
 
