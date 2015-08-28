@@ -38,6 +38,7 @@ footer: false
 |July 11, 1:45PM   | [Midwest Fiddle Championship Finals](http://www.squareroots.org/fiddle/) | [Old Town School of Folk Music](https://www.oldtownschool.org/) <br> Chicago, IL
 |July 14, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |July 20-Aug. 7    | Instructor at [The Jink and Diddle School of Scottish Fiddling](http://www.jinkdiddle.com/) | Valle Crucis, NC
+|Aug. 17, 7PM      | [English Country Dance](http://www.fnal.gov/orgs/folkdance/english/) with [Old Fezziwig's Band](http://www.oldfezziwigsband.com/) | Oak Park, IL
 |Sept. 4, 8PM      | [Scottish performance](http://ymlp.com/zqR4fG) with [Character Fleadh](http://www.reverbnation.com/characterfleadh) | [Troquet River North](http://troquetrivernorth.com/) <br> 111 W Huron St. <br> Chicago, IL
 |Sept. 12, 1PM     | [US National Scottish Fiddling Competition](http://www.edinboro.edu/events/highland-games/competition-entries/regional-fiddle-competition.html) | Edinboro, PA
 |Sept. 18-20       | Scottish music of the [American Civil War](http://www.barrington-il.gov/Home/Components/Calendar/Event/3992/16?recordid=3992&curm=9&cury=2015) at the [Green Whale Tavern](http://greenwhaletavern.blogspot.com/) | Barrington, IL
