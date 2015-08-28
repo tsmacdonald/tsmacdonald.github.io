@@ -22,7 +22,8 @@ among others.  He made his New York debut in a sold-out performance at the Frick
 [Trio Settecento](http://www.triosettecento.com/), and he has also appeared with the Trio on WQXR classical radio. A
 scholar as well as a player, Tim is an Arthur and Lila Weinberg Fellow at the [Newberry Library](http://newberry.org/),
 where he will be researching the period-correct performance of Scottish-Baroque music. He also plays the viola d'amore,
-harpsichord, and concertina, is a software engineer, and recently ran the Chicago Marathon for charity.
+harpsichord, and concertina, serves on the board of the [Great Lakes Baroque](http://www.greatlakesbaroque.org/),
+develops software, and recently ran the Chicago Marathon for charity.
 
 [Contact Tim](/contact.html) to book him for solo performances, Scottish country dances, music workshops,
 lectures, and private lessons (in-person in Chicago or remotely via webcam).
