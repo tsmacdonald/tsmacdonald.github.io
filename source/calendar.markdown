@@ -45,7 +45,7 @@ footer: false
 |Sept. 12, 1PM     | [US National Scottish Fiddling Competition](http://www.edinboro.edu/events/highland-games/competition-entries/regional-fiddle-competition.html) | Edinboro, PA
 |Sept. 18-20       | Scottish music of the [American Civil War](http://www.barrington-il.gov/Home/Components/Calendar/Event/3992/16?recordid=3992&curm=9&cury=2015) at the [Green Whale Tavern](http://greenwhaletavern.blogspot.com/) | Barrington, IL
 |Sept. 19, 5PM     | Scottish performance with [Character Fleadh](http://www.reverbnation.com/characterfleadh) at the [Brew at the Bridge](http://www.brewatthebridge.com/) | Oswego, IL
-|Sept. 23, 6PM     | *[Music of the British Isles with an Italian Twist](http://www.constellation-chicago.com/event/945755-classical-revolution-bbe-chicago/)* with the [Bach and Beethoven Ensemble](http://www.bbensemble.org/) | Constellation <br> 3811 N Western Ave. <br> Chicago, IL
+|Sept. 23, 6PM     | *[Music of the British Isles with an Italian Twist](http://www.constellation-chicago.com/event/945755-classical-revolution-bbe-chicago/)* with the [Bach and Beethoven Ensemble](http://www.bbensemble.org/) | [Constellation](http://www.constellation-chicago.com/) <br> 3111 N Western Ave. <br> Chicago, IL
 |Oct. 3, 7PM       | Scottish concert and ceilidh dance with [Character Fleadh](http://www.reverbnation.com/characterfleadh) at the Clan MacPherson Reunion | Itasca, IL
 |Oct. 25           | [Glenfiddich Fiddle Championship](http://www.glenfiddich.com/uk/explore/latest-events/glenfiddich-fiddle-championship/) | Blair Castle <br> Perthshire, Scotland
 
