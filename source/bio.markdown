@@ -15,11 +15,13 @@ footer: false
 
 Heralded for his "impressive and stylistically Scottish playing" ([Melinda Crawford](http://www.melindacrawford.com/))
 and as "a *real* fiddler" ([Bonnie Rideout](http://www.bonnierideout.com/)), Tim Macdonald is a regular performer,
-composer, and teacher of Scottish-Baroque music. Tim was the first US National Scottish Fiddling Champion to win on a
-Baroque violin, and his pefromances with [Trio Settecento](http://www.triosettecento.com/), [Susie
+composer, and teacher of Scottish-Baroque music.
+
+Tim was the first US National Scottish Fiddling Champion to win on a
+Baroque violin, and his performances with [Trio Settecento](http://www.triosettecento.com/), [Susie
 Petrov](http://susiepetrov.com/), [Colyn Fischer](http://www.scotsduo.com/), the [Bach and Beethoven
 Ensemble](http://www.bbensemble.org/), and many others have taken him from New York City's Frick Collection to the 1770s
-Ox Bow Tavern to WQXR classical radio.
+Ox Bow Tavern to WQXR classical radio and beyond.
 
 In addition to performing, Tim runs a private studio and is on faculty at [The Jink and Diddle School of Scottish
 Fiddling](http://www.jinkdiddle.com), and his compositions have won the only recent Scottish FIRE Composition Competition
