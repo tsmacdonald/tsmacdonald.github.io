@@ -22,7 +22,7 @@ Ensemble](http://www.bbensemble.org/), and many others have taken him from New Y
 Ox Bow Tavern to WQXR classical radio.
 
 In addition to performing, Tim runs a private studio and is on faculty at [The Jink and Diddle School of Scottish
-Fiddling](http://www.jinkdiddle.com). His compositions have won the only recent Scottish FIRE Composition Competition
+Fiddling](http://www.jinkdiddle.com), and his compositions have won the only recent Scottish FIRE Composition Competition
 and are published [as a stand-alone collection](/tunes.html). A scholar as well as a player, Tim is an Arthur and
 Lila Weinberg Fellow at the [Newberry Library](http://newberry.org/), where he is researching the period-correct
 performance of Scottish-Baroque music. He also plays the viola d'amore, harpsichord, and concertina, serves on the board
