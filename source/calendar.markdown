@@ -49,7 +49,15 @@ footer: false
 |Sept. 28, 3:30PM  | After-school program about the Baroque violin | [Nettelhorst Elementary School](http://www.nettelhorst.org/) <br> Chicago, IL
 |Oct. 3, 7PM       | Scottish concert and ceilidh dance with [Character Fleadh](http://www.reverbnation.com/characterfleadh) at the Clan MacPherson Reunion | Itasca, IL
 |Oct. 12, 7PM      | [House concert](https://www.facebook.com/events/140135803007308/) with [Jeremy Ward](http://www.jeremydavidward.com) | Wicker Park ([contact Tim](/contact.html) for address) <br> Chicago, IL
+|Oct. 13, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |Oct. 25           | [Glenfiddich Fiddle Championship](http://www.glenfiddich.com/uk/explore/latest-events/glenfiddich-fiddle-championship/) | Blair Castle <br> Perthshire, Scotland
 |Oct. 26, 7:30PM   | [Dunkeld and District Strathspey and Reel Society](http://www.dunkeldstrathspeyandreel.org/) | Dunkeld, Scotland
+|Oct. 29           | Concert with [Jeremy Ward](http://www.jeremydavidward.com/) at [The National Centre of Excellence in Traditional Music](http://www.musicplockton.org/). Preceded by a workshop. | Plockton, Scotland
+|Nov. 10, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
+|Nov. 17, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
+|Nov. 21, 6PM      | Performance at [The Feast of the Haggis](http://www.chicagoscots.org/feastofhaggis/) with [Rachel Barton Pine](http://www.rachelbartonpine.com) and [The Thistle and Heather Highland Dancers](http://chicagoscottishdance.com/) | Palmer House <br> Chicago, IL
+|Nov. 24, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
+|Dec. 1, 7PM       | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
+
 
 Interested in having Tim play at your event? [Book him now!](/contact.html)
