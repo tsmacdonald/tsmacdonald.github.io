@@ -25,7 +25,7 @@ Ox Bow Tavern, countless Scottish country dances, The National Centre of Excelle
 radio, BBC Scotland's *Take the Floor*, and beyond.
 
 In addition to performing, Tim runs a private teaching studio and is on faculty at [The Jink and Diddle School of Scottish
-Fiddling](http://www.jinkdiddle.com), and his compositions have won the only recent Scottish FIRE Composition Competition
+Fiddling](http://www.jinkdiddle.com), and his compositions have won first place at both Scottish FIRE Composition Competitions
 and are now available [in print](/tunes.html). A scholar as well as a player, Tim is an Arthur and
 Lila Weinberg Fellow at the [Newberry Library](http://newberry.org/), where he is researching the period-correct
 performance of Scottish-Baroque music. He also plays the viola d'amore, harpsichord, and concertina, serves on the board
