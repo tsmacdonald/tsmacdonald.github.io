@@ -58,6 +58,11 @@ footer: false
 |Nov. 21, 6PM      | Performance at [The Feast of the Haggis](http://www.chicagoscots.org/feastofhaggis/) with [Rachel Barton Pine](http://www.rachelbartonpine.com) and [The Thistle and Heather Highland Dancers](http://chicagoscottishdance.com/) | Palmer House <br> Chicago, IL
 |Nov. 24, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |Dec. 1, 7PM       | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
+|Dec. 7, 7PM       | [Caledonian Regency Ball](http://chicagolandecd.org/special-events/caledonian-regency-ball/) called by [Susan de Guardiola](http://www.kickery.com/) with [Jeremy Ward](http://www.jeremydavidward.com/) and [Jonathan Whitall](http://thecosmicotters.com/) | Oak Park, IL
+|Dec. 8, 7PM       | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
+|Dec. 15, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
+|Dec. 16, 4PM      | Colloquium on ["Folk but Baroque: Re-examining the Performance Practice and Genre of 18th-century Scotland"](https://www.facebook.com/events/1701979106684557/) | Towner Fellows' Lounge at [The Newberry Library](http://newberry.org/) <br> Chicago, IL
+
 
 
 Interested in having Tim play at your event? [Book him now!](/contact.html)
