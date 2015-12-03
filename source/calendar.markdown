@@ -61,7 +61,7 @@ footer: false
 |Dec. 7, 7PM       | [Caledonian Regency Ball](http://chicagolandecd.org/special-events/caledonian-regency-ball/) called by [Susan de Guardiola](http://www.kickery.com/) with [Jeremy Ward](http://www.jeremydavidward.com/) and [Jonathan Whitall](http://thecosmicotters.com/) | Oak Park, IL
 |Dec. 8, 7PM       | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |Dec. 15, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
-|Dec. 16, 4PM      | Colloquium on ["Folk but Baroque: Re-examining the Performance Practice and Genre of 18th-century Scotland"](https://www.facebook.com/events/1701979106684557/) | Towner Fellows' Lounge at [The Newberry Library](http://newberry.org/) <br> Chicago, IL
+|Dec. 16, 4PM      | Colloquium on ["Folk but Baroque: Re-examining the Performance Practice and Genre of 18th-century Scotland"](https://www.facebook.com/events/1701979106684557/) with [Jeremy Ward](http://www.jeremydavidward.com) and [David Schrader](http://www.davidschrader.com/) | Towner Fellows' Lounge at [The Newberry Library](http://newberry.org/) <br> Chicago, IL
 
 
 
