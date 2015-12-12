@@ -62,6 +62,13 @@ footer: false
 |Dec. 8, 7PM       | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |Dec. 15, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
 |Dec. 16, 4PM      | Colloquium on ["Folk but Baroque: Re-examining the Performance Practice and Genre of 18th-century Scotland"](https://www.facebook.com/events/1701979106684557/) with [Jeremy Ward](http://www.jeremydavidward.com) and [David Schrader](http://www.davidschrader.com/) | Towner Fellows' Lounge at [The Newberry Library](http://newberry.org/) <br> Chicago, IL
+|Jan. 5, 7PM       | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
+|Jan. 12, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
+|Jan. 16, 7PM      | [Scottish Country Dance Ball](https://rscdschicago.wordpress.com/special-events/) with [Jeremy Ward](http://www.jeremydavidward.com) | Baker Community Center <br> St. Charles, IL
+|Jan. 17, 1:30PM   | [Scottish Tea Dance](https://rscdschicago.wordpress.com/special-events/) with [Jeremy Ward](http://www.jeremydavidward.com) | Baker Community Center <br> St. Charles, IL
+|Jan. 19, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
+|Jan. 26, 7PM      | [Chicago Scottish Jam](/jamming.html) | [The Duke of Perth](http://www.dukeofperth.com/) <br> Chicago, IL
+|July 15-16        | Two concerts at the [Jane Austen Festival](http://jasnalouisville.com/2016-jane-austen-festival) with [Jeremy Ward](http://www.jeremydavidward.com) | [Locust Grove](http://locustgrove.org/) <br> Louisville, KY
 
 
 
