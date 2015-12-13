@@ -92,6 +92,8 @@ GEM
     redcarpet (3.3.3)
     safe_yaml (1.0.4)
     sass (3.4.20)
+    sass-globbing (1.0.0)
+      sass (>= 3.1)
     sawyer (0.6.0)
       addressable (~> 2.3.5)
       faraday (~> 0.8, < 0.10)
@@ -123,5 +125,6 @@ DEPENDENCIES
   rake (~> 10.0)
   rb-fsevent (~> 0.9)
   rdiscount (~> 2.0)
+  sass-globbing
   sinatra (~> 1.4.2)
   stringex (~> 1.4.0)
