@@ -123,3 +123,27 @@ article .entry-content table.calendar tr:nth-of-type(2n) {
 .calendar-past {
   opacity: 0.5;
 }
+
+.calendar-page {
+  @media only screen and (min-width: 900px) {
+    .article-inner {
+      background: rgba(255, 255, 255, .75);
+      margin-left: 0;
+      padding: {
+        left: 5%;
+        right: 40px;
+      }
+    }
+
+    .container .mid-col .mid-col-container {
+      background: {
+        attachment: fixed;
+        image: url(/assets/calendar-background.jpg);
+        origin: border-box;
+        repeat: no-repeat;
+        size: cover;
+      }
+      padding-left: 0;
+    }
+  }
+}

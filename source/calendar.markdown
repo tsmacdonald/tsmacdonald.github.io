@@ -5,6 +5,7 @@ date: 2014-05-17 14:57
 comments: false
 sharing: false
 footer: false
+body_class: calendar-page
 ---
 {% capture currentUnixTimestamp %}{{ "now" | date: "%s" }}{% endcapture %}
 <table class="calendar">
