@@ -6,7 +6,6 @@
 
   {% if eventUnixTimestamp > currentUnixTimestamp and include.pastOrFuture == "future" %}
     {% include custom/calendar_event.html event=event pastOrFuture="future" %}
-
   {% elsif eventUnixTimestamp < currentUnixTimestamp and include.pastOrFuture == "past" %}
     {% include custom/calendar_season_header.html %}
     {% include custom/calendar_event.html pastOrFuture="past" %}
