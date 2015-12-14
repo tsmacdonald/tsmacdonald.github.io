@@ -83,6 +83,10 @@ article .entry-content table.calendar tr:nth-of-type(2n) {
   background: none;
 }
 
+.container .mid-col .mid-col-container {
+  padding-bottom: 160px; // Make room for the absolute-positioned footer.
+}
+
 .calendar-date {
   font-family: "Open Sans", sans-serif;
   padding: 1em;
@@ -144,6 +148,10 @@ article .entry-content table.calendar tr:nth-of-type(2n) {
         size: cover;
       }
       padding-left: 0;
+    }
+
+    #footer {
+      border-top: none;
     }
   }
 }
