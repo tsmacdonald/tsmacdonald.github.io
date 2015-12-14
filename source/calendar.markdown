@@ -6,6 +6,14 @@ comments: false
 sharing: false
 footer: false
 ---
+{% capture currentUnixTimestamp %}{{ "now" | date: "%s" }}{% endcapture %}
+<table class="calendar">
+  <tbody>
+    {% include custom/calendar_event_list.html title="Upcoming performances" pastOrFuture="future" %}
+    {% include custom/calendar_event_list.html title="Past performances" pastOrFuture="past" %}
+  </tbody>
+</table>
+
 #2015 Performance Calendar
 
 |      Date        | Event       | Location
