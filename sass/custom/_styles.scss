@@ -124,8 +124,16 @@ article .entry-content table.calendar tr:nth-of-type(2n) {
   text-transform: uppercase;
 }
 
-.calendar-past {
-  opacity: 0.5;
+.calendar-season {
+  display: none;
+}
+
+.calendar-season-title {
+  cursor: pointer;
+}
+
+.calendar-season-title-arrow {
+  font-size: .7em;
 }
 
 .calendar-page {

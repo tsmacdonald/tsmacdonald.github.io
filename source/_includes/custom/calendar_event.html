@@ -1,4 +1,4 @@
-<tr class="calendar-{{ include.pastOrFuture }}">
+<tr data-season="{{ event.season }}">
   <td data-date="{{ event.date }}" class="calendar-date">
     <span class="calendar-date-month">{{ event.date | date: "%B" }}</span>
     <span class="calendar-date-day">{{ event.date | date: "%-d" }}</span>

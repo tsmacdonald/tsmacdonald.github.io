@@ -1,88 +1,79 @@
-- date: 2015-01-31
-  time: 7:30pm
-  title: "[St. Andrews Society Burns Supper](http://www.chicagoscots.org/burnssupper/)"
-  location: Chicago, IL
-  season: 2014-2015
+- season: 2014-2015
+  events:
 
-- date: 2015-03-20
-  time: 8pm
-  title: "[Scottish Concert](http://sprott.physics.wisc.edu/mscd/ball2015.htm) with [Susie Petrov](http://www.susiepetrov.com)"
-  location: Madison, WI
-  season: 2014-2015
+  - date: 2015-01-31
+    time: 7:30pm
+    title: "[St. Andrews Society Burns Supper](http://www.chicagoscots.org/burnssupper/)"
+    location: Chicago, IL
 
-- date: 2015-03-21
-  time: 7:30pm
-  title: "[Scottish Country Dance Ball](http://sprott.physics.wisc.edu/mscd/ball2015.htm) with [Susie Petrov](http://www.susiepetrov.com)"
-  location: Madison, WI
-  season: 2014-2015
+  - date: 2015-03-20
+    time: 8pm
+    title: "[Scottish Concert](http://sprott.physics.wisc.edu/mscd/ball2015.htm) with [Susie Petrov](http://www.susiepetrov.com)"
+    location: Madison, WI
 
-- date: 2015-12-01
-  time: 7pm
-  title: "[Chicago Scottish Jam](/jamming.html)"
-  location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
-  season: 2015-2016
+  - date: 2015-03-21
+    time: 7:30pm
+    title: "[Scottish Country Dance Ball](http://sprott.physics.wisc.edu/mscd/ball2015.htm) with [Susie Petrov](http://www.susiepetrov.com)"
+    location: Madison, WI
 
-- date: 2015-12-07
-  time: 7pm
-  title: "[Caledonian Regency Ball](http://chicagolandecd.org/special-events/caledonian-regency-ball/) called by [Susan de Guardiola](http://www.kickery.com/) with [Jeremy Ward](http://www.jeremydavidward.com/) and [Jonathan Whitall](http://thecosmicotters.com/)"
-  location: Oak Park, IL
-  season: 2015-2016
+- season: 2015-2016
+  events:
 
-- date: 2015-12-08
-  time: 7pm
-  title: "[Chicago Scottish Jam](/jamming.html)"
-  location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
-  season: 2015-2016
+  - date: 2015-12-01
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
 
-- date: 2015-12-15
-  time: 7pm
-  title: "[Chicago Scottish Jam](/jamming.html)"
-  location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
-  season: 2015-2016
+  - date: 2015-12-07
+    time: 7pm
+    title: "[Caledonian Regency Ball](http://chicagolandecd.org/special-events/caledonian-regency-ball/) called by [Susan de Guardiola](http://www.kickery.com/) with [Jeremy Ward](http://www.jeremydavidward.com/) and [Jonathan Whitall](http://thecosmicotters.com/)"
+    location: Oak Park, IL
 
-- date: 2015-12-16
-  time: 4pm
-  title: "Colloquium on [\"Folk but Baroque: Re-examining the Performance Practice and Genre of 18th-century Scotland\"](https://www.facebook.com/events/1701979106684557/) with [Jeremy Ward](http://www.jeremydavidward.com) and [David Schrader](http://www.davidschrader.com/)"
-  location: "Towner Fellows' Lounge at [The Newberry Library](http://newberry.org/), Chicago, IL"
-  season: 2015-2016
+  - date: 2015-12-08
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
 
-- date: 2016-01-05
-  time: 7pm
-  title: "[Chicago Scottish Jam](/jamming.html)"
-  location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
-  season: 2015-2016
+  - date: 2015-12-15
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
 
-- date: 2016-01-12
-  time: 7pm
-  title: "[Chicago Scottish Jam](/jamming.html)"
-  location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
-  season: 2015-2016
+  - date: 2015-12-16
+    time: 4pm
+    title: "Colloquium on [\"Folk but Baroque: Re-examining the Performance Practice and Genre of 18th-century Scotland\"](https://www.facebook.com/events/1701979106684557/) with [Jeremy Ward](http://www.jeremydavidward.com) and [David Schrader](http://www.davidschrader.com/)"
+    location: "Towner Fellows' Lounge at [The Newberry Library](http://newberry.org/), Chicago, IL"
 
-- date: 2016-01-16
-  time: 7pm
-  title: "[Scottish Country Dance Ball](https://rscdschicago.wordpress.com/special-events/) with [Jeremy Ward](http://www.jeremydavidward.com)"
-  location: Baker Community Center, St. Charles, IL
-  season: 2015-2016
+  - date: 2016-01-05
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
 
-- date: 2016-01-17
-  time: 1:30pm
-  title: "[Scottish Tea Dance](https://rscdschicago.wordpress.com/special-events/) with [Jeremy Ward](http://www.jeremydavidward.com)"
-  location: Baker Community Center, St. Charles, IL
-  season: 2015-2016
+  - date: 2016-01-12
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
 
-- date: 2016-01-19
-  time: 7pm
-  title: "[Chicago Scottish Jam](/jamming.html)"
-  location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
-  season: 2015-2016
+  - date: 2016-01-16
+    time: 7pm
+    title: "[Scottish Country Dance Ball](https://rscdschicago.wordpress.com/special-events/) with [Jeremy Ward](http://www.jeremydavidward.com)"
+    location: Baker Community Center, St. Charles, IL
 
-- date: 2016-01-26
-  time: 7pm
-  title: "[Chicago Scottish Jam](/jamming.html)"
-  location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
-  season: 2015-2016
+  - date: 2016-01-17
+    time: 1:30pm
+    title: "[Scottish Tea Dance](https://rscdschicago.wordpress.com/special-events/) with [Jeremy Ward](http://www.jeremydavidward.com)"
+    location: Baker Community Center, St. Charles, IL
 
-- date: 2016-07-15
-  title: "Two concerts at the [Jane Austen Festival](http://jasnalouisville.com/2016-jane-austen-festival) with [Jeremy Ward](http://www.jeremydavidward.com)"
-  location: Louisville, KY
-  season: 2015-2016
+  - date: 2016-01-19
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-01-26
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-07-15
+    title: "Two concerts at the [Jane Austen Festival](http://jasnalouisville.com/2016-jane-austen-festival) with [Jeremy Ward](http://www.jeremydavidward.com)"
+    location: Louisville, KY
