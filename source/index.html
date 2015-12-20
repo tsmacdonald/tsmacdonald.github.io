@@ -14,3 +14,11 @@ layout: default
     <iframe width="640" height="360" src="//www.youtube.com/embed/ZdMfiaFjF1Q" frameborder="0" allowfullscreen></iframe>
   </figure>
 </div>
+
+<section class="index-recent-posts">
+  <h2 class="index-recent-posts-header">
+    Recent posts
+    <a href="/blog.html" class="index-recent-posts-blog-link">All posts &raquo;</a>
+  </h2>
+  {% include custom/post_list.html limit=3 %}
+</section>

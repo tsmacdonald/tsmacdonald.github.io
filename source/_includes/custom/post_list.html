@@ -1,0 +1,11 @@
+<ul class="post-list">
+  {% if include.limit %}
+    {% for post in site.posts reverse limit:include.limit %}
+      {% include custom/post_list_post.html %}
+    {% endfor %}
+  {% else %}
+    {% for post in site.posts reverse %}
+      {% include custom/post_list_post.html %}
+    {% endfor %}
+  {% endif %}
+</ul>

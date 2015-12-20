@@ -1,0 +1,7 @@
+<li>
+  <a href="{{ post.url }}" class="post-title">{{ post.title }}</a>
+  <time datetime="{{ page.date }}" class="post-datetime">{{ post.date | date: "%B %d, %Y" }}</time>
+  {% if post.excerpt %}
+    <p class="post-excerpt">{{ post.excerpt }}</p>
+  {% endif %}
+</li>
