@@ -15,7 +15,3 @@ Lincoln Park (2913 N Clark St), begin at 7PM, and run until 9 or so.  Everyone
 is encouraged to play their favorite Scottish tunes, but newcomers to the
 Scottish style might find it useful to look over the collection of [tunes we'll
 probably play](assets/jam-tunes.pdf).
-
-**Please Note:** The jam will go on hiatus for Christmas, and we will not meet
-on December 22 or December 29. We hope to see you on December 15 and in the new
-year on January 5!
