@@ -145,6 +145,9 @@
     title: "[English Country Dance](http://www.fnal.gov/orgs/folkdance/english/) with [Old Fezziwig's Band](http://www.oldfezziwigsband.com/)"
     location: Oak Park, IL
 
+- season: 2015-2016
+  events:
+
   - date: 2015-09-04
     time: 8pm
     title: "[Scottish performance](http://ymlp.com/zqR4fG) with [Character Fleadh](http://www.reverbnation.com/characterfleadh)"
@@ -231,10 +234,6 @@
     time: 7pm
     title: "[Chicago Scottish Jam](/jamming.html)"
     location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
-
-- season: 2015-2016
-  events:
-
   - date: 2015-12-01
     time: 7pm
     title: "[Chicago Scottish Jam](/jamming.html)"
@@ -270,6 +269,11 @@
     title: "[Chicago Scottish Jam](/jamming.html)"
     location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
 
+  - date: 2016-01-15
+    time: 7pm
+    title: "Private event with [Jeremy Ward](http://www.jeremydavidward.com)"
+    location: "Chicago, IL"
+
   - date: 2016-01-16
     time: 7pm
     title: "[Scottish Country Dance Ball](https://rscdschicago.wordpress.com/special-events/) with [Jeremy Ward](http://www.jeremydavidward.com)"
@@ -285,7 +289,93 @@
     title: "[Chicago Scottish Jam](/jamming.html)"
     location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
 
-  - date: 2016-01-26
+  - date: 2016-01-23
+    time: 7pm
+    title: "Pre-concert lecture on Scottish tunes and Romantic concertos with [Rachel Barton Pine](http://rachelbartonpine.com/) and the [Lansing Symphony Orchestra](http://www.lansingsymphony.org/)"
+    location: "[Wharton Center for the Performing Arts](http://www.whartoncenter.com/), East Lansing, MI"
+
+  - date: 2016-01-23
+    time: 8pm
+    title: "Traditional Scottish tunes with [Rachel Barton Pine](http://rachelbartonpine.com/) and the [Lansing Symphony Orchestra](http://www.lansingsymphony.org/) ([Tickets](https://ssl1.lansingsymphony.org/scripts/max/2000/maxweb.exe?ACTION=ORDER&MAXWEB_127.0.0.1_2213=))"
+    location: "[Wharton Center for the Performing Arts](http://www.whartoncenter.com/), East Lansing, MI"
+
+  - date: 2016-02-02
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-02-05
+    time: 8pm
+    title: "[Old Lazarus' Harp February Concert](https://www.facebook.com/OldLazarusHarp) with [Jeremy Ward](http://www.jeremydavidward.com)"
+    location: "[The Galway Arms](http://galwayarms.com/), 2442 N Clark St, Chicago, IL"
+
+  - date: 2016-02-06
+    title: "Solo concert of \"Lowland Scottish Music of the Late 18th Century\""
+    location: "[Military History Fest](http://www.reenactorfest.com/), [Pheasant Run Resort](http://www.pheasantrun.com/), St. Charles, IL"
+
+  - date: 2016-02-06
+    title: "Seminar on \"Historically-Informed Performance: How to Research Early Music\""
+    location: "[Military History Fest](http://www.reenactorfest.com/), [Pheasant Run Resort](http://www.pheasantrun.com/), St. Charles, IL"
+
+  - date: 2016-02-09
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-02-16
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-02-23
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-02-25
+    title: "Private lecture on musical styles with [Jeremy Ward](http://www.jeremydavidward.com)"
+    location: "[Wheaton College](http://www.wheaton.edu/), Wheaton, IL"
+
+  - date: 2016-02-27
+    title: "Private ceilidh with [Jeremy Ward](http://www.jeremydavidward.com), [Brandi Berry](http://www.bbensemble.org/leadership/), and [Mady Newfield](https://www.linkedin.com/in/mady-newfield-534b9313)"
+    location: "Chicago, IL"
+
+  - date: 2016-03-01
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-03-05
+    time: 7:30pm
+    title: "St. Patrick's Day performance with [Logical Fleadh](http://www.logicalfleadh.com/)"
+    location: "[St. Cornelius Church](http://www.stcornelius.org/), 5205 N Lieb Ave., Chicago, IL"
+
+  - date: 2016-03-08
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-03-15
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-03-17
+    time: 2pm
+    title: "St. Patrick's Day performance with [Character Fleadh](http://www.characterfleadh.com/)"
+    location: "[Durty Nellie's](http://www.durtynellies.com/), 180 N Smith St., Palatine, IL"
+
+  - date: 2016-03-17
+    time: 7pm
+    title: "St. Patrick's Day performance with [Logical Fleadh](http://www.logicalfleadh.com/)"
+    location: "[Palmer Place](http://www.palmerslagrange.com/), 56 S La Grange Rd., La Grange, IL"
+
+  - date: 2016-03-22
+    time: 7pm
+    title: "[Chicago Scottish Jam](/jamming.html)"
+    location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
+
+  - date: 2016-03-29
     time: 7pm
     title: "[Chicago Scottish Jam](/jamming.html)"
     location: "[The Duke of Perth](http://www.dukeofperth.com/), Chicago, IL"
@@ -293,3 +383,7 @@
   - date: 2016-07-15
     title: "Two concerts at the [Jane Austen Festival](http://jasnalouisville.com/2016-jane-austen-festival) with [Jeremy Ward](http://www.jeremydavidward.com)"
     location: Louisville, KY
+
+  - date: 2016-07-24
+    title: "Instructor at [The Jink and Diddle School of Scottish Fiddling](http://jinkdiddle.com/)"
+    location: Valle Crucis, NC
