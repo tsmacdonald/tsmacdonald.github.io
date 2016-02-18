@@ -70,6 +70,18 @@
     margin: 0 -25% 0 2em;
   }
 }
+figure.right {
+  margin: 0 auto;
+  max-width: 50%;
+  @media screen and (min-width: 900px) {
+    float: right;
+    margin: 0 -25% 0 2em;
+  }
+}
+figure.center {
+  margin: 0 auto;
+  max-width: 50%;
+}
 figure.macdonald-collection {
   max-width: 75%;
 }
