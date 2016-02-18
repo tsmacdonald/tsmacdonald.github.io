@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[T. S. Macdonald]]></title>
-  <link href="http://tsmacdonald.github.io/atom.xml" rel="self"/>
-  <link href="http://tsmacdonald.github.io/"/>
-  <updated>2016-02-18T13:11:41-06:00</updated>
-  <id>http://tsmacdonald.github.io/</id>
+  <link href="http://tsmacdonald.com/atom.xml" rel="self"/>
+  <link href="http://tsmacdonald.com/"/>
+  <updated>2016-02-18T16:34:26-06:00</updated>
+  <id>http://tsmacdonald.com/</id>
   <author>
     <name><![CDATA[Tim Macdonald]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Folk and Baroque: Tim and Jeremy's Trip to Scotland]]></title>
-    <link href="http://tsmacdonald.github.io/blog/2016/02/18/triptoscotland/"/>
+    <link href="http://tsmacdonald.com/blog/2016/02/18/triptoscotland/"/>
     <updated>2016-02-18T12:01:55-06:00</updated>
-    <id>http://tsmacdonald.github.io/blog/2016/02/18/triptoscotland</id>
+    <id>http://tsmacdonald.com/blog/2016/02/18/triptoscotland</id>
     <content type="html"><![CDATA[<blockquote>
 Fiddlers! Your pegs in temper fix, <br>
 And rosin well your fiddlesticks, <br>
@@ -41,8 +41,8 @@ Scottish fiddling, Niel Gow (1727-1807), first achieved fame by winning an open
 fiddle competition in Perth in 1745.</p>
 
 <figure class="center">
-  <a href="http://tsmacdonald.github.io/assets/blaircastle.jpg">
-    <img src="http://tsmacdonald.github.io/assets/blaircastle.jpg" title="" >
+  <a href="http://tsmacdonald.com/assets/blaircastle.jpg">
+    <img src="http://tsmacdonald.com/assets/blaircastle.jpg" title="" >
   </a>
 </figure>
 
@@ -57,8 +57,8 @@ members, judged silently by Niel&rsquo;s oil-painted eyes, and ranked by three
 adjudicators.</p>
 
 <figure class="right">
-  <a href="http://tsmacdonald.github.io/assets/gow.jpg">
-    <img src="http://tsmacdonald.github.io/assets/gow.jpg" title="" >
+  <a href="http://tsmacdonald.com/assets/gow.jpg">
+    <img src="http://tsmacdonald.com/assets/gow.jpg" title="" >
   </a>
 </figure>
 
@@ -96,8 +96,8 @@ finally beginning to get the academic treatment and public performance it
 deserves.</p>
 
 <figure class="right">
-  <a href="http://tsmacdonald.github.io/assets/nomorefun.jpg">
-    <img src="http://tsmacdonald.github.io/assets/nomorefun.jpg" title="" >
+  <a href="http://tsmacdonald.com/assets/nomorefun.jpg">
+    <img src="http://tsmacdonald.com/assets/nomorefun.jpg" title="" >
   </a>
 </figure>
 
@@ -120,8 +120,8 @@ laid-back approach and tried to communicate the joviality of the music with our
 bodies, faces, and gestures—not just the notes coming out of our instruments.</p>
 
 <figure class="center">
-  <a href="http://tsmacdonald.github.io/assets/glenfiddich.jpg">
-    <img src="http://tsmacdonald.github.io/assets/glenfiddich.jpg" title="" >
+  <a href="http://tsmacdonald.com/assets/glenfiddich.jpg">
+    <img src="http://tsmacdonald.com/assets/glenfiddich.jpg" title="" >
   </a>
 </figure>
 
@@ -149,8 +149,8 @@ anyway</a>), but because
 there was some good music played then and it&rsquo;d be a shame to forget about it.</p>
 
 <figure class="right">
-  <a href="http://tsmacdonald.github.io/assets/nls.jpg">
-    <img src="http://tsmacdonald.github.io/assets/nls.jpg" title="" >
+  <a href="http://tsmacdonald.com/assets/nls.jpg">
+    <img src="http://tsmacdonald.com/assets/nls.jpg" title="" >
   </a>
 </figure>
 
@@ -190,8 +190,8 @@ one, and ultimately I think we’re forced to put our faith in the good taste of
 artists and listeners.</p>
 
 <figure class="center">
-  <a href="http://tsmacdonald.github.io/assets/olh.jpg">
-    <img src="http://tsmacdonald.github.io/assets/olh.jpg" title="" >
+  <a href="http://tsmacdonald.com/assets/olh.jpg">
+    <img src="http://tsmacdonald.com/assets/olh.jpg" title="" >
   </a>
 </figure>
 
@@ -250,18 +250,25 @@ Lifeless is he wha canna feel <br>
   
   <entry>
     <title type="html"><![CDATA[February Tune of the Month: Johnny's Friends are Ne'er Pleased]]></title>
-    <link href="http://tsmacdonald.github.io/blog/2016/02/18/febtotm/"/>
+    <link href="http://tsmacdonald.com/blog/2016/02/18/febtotm/"/>
     <updated>2016-02-18T11:43:30-06:00</updated>
-    <id>http://tsmacdonald.github.io/blog/2016/02/18/febtotm</id>
-    <content type="html"><![CDATA[<p>Happy February! Our inaugural tune of the month is the most unsatisfying tune I&rsquo;ve ever played: the rhythm is funky, the harmony is ungrounded, and the ending is a complete surprise. But it&rsquo;s a braw choon anyway!</p>
+    <id>http://tsmacdonald.com/blog/2016/02/18/febtotm</id>
+    <content type="html"><![CDATA[<figure class="center">
+  <a href="http://tsmacdonald.com/assets/febcow.jpg">
+    <img src="http://tsmacdonald.com/assets/febcow.jpg" title="" >
+  </a>
+</figure>
+
+
+<p>Happy February! Our inaugural tune of the month is the most unsatisfying tune I&rsquo;ve ever played: the rhythm is funky, the harmony is ungrounded, and the ending is a complete surprise. But it&rsquo;s a braw choon anyway!</p>
 
 <p>The only published copy that we know of is in <a href="http://hms.scot/fiddle/source/102/">Part Fourth of Gow&rsquo;s Complete Repository</a>. It was published around 1817—ten years after Niel&rsquo;s death—so presumably Nathaniel selected it.</p>
 
 <p>Anyway, I hope you are thoroughly displeased by the tune! (But still enjoy it)</p>
 
 <figure>
-  <a href="http://tsmacdonald.github.io/assets/jfanp.png">
-    <img src="http://tsmacdonald.github.io/assets/jfanp.png" title="" >
+  <a href="http://tsmacdonald.com/assets/jfanp.png">
+    <img src="http://tsmacdonald.com/assets/jfanp.png" title="" >
   </a>
 </figure>
 
