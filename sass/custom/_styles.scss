@@ -70,6 +70,18 @@
     margin: 0 -25% 0 2em;
   }
 }
+figure.right {
+  margin: 0 auto;
+  max-width: 50%;
+  @media screen and (min-width: 900px) {
+    float: right;
+    margin: 0 -25% 0 2em;
+  }
+}
+figure.center {
+  margin: 0 auto;
+  max-width: 50%;
+}
 figure.macdonald-collection {
   max-width: 75%;
 }
@@ -151,7 +163,62 @@ article .entry-content table.calendar tr:nth-of-type(2n) {
       position: fixed;
       right: 0;
       top: 0;
-      width: 25.2%; // 72% width column * 35% of the column's free space (since this is position: fixed)
+      width: 25.2%; /* 72% width column * 35% of the column's free space (since this is position: fixed) */
     }
   }
+}
+
+.index-recent-posts {
+  margin-top: 1em;
+
+  .post-datetime {
+    line-height: 2em;
+  }
+}
+
+.index-recent-posts-blog-link {
+  float: right;
+  font: {
+    size: 0.5em;
+    weight: normal;
+  }
+  line-height: 3em;
+}
+
+.index-recent-posts-header {
+  margin-bottom: 0.5em;
+}
+
+.post-datetime {
+  display: block;
+  font: {
+    family: "Opens Sans", sans-serif;
+    size: 0.6em;
+  }
+  opacity: .7;
+  text-transform: uppercase;
+}
+
+.post-excerpt {
+  font: {
+    size: .7em;
+  }
+  margin-top: 10px;
+}
+
+.post-list,
+article .entry-content ul.post-list {
+  list-style-type: none;
+  margin: 0;
+}
+
+.post-title {
+  font: {
+    family: "Opens Sans", sans-serif;
+  }
+}
+
+.container .mid-col .mid-col-container #content article .post-date {
+  margin: -34px 0 34px;
+  text-align: left;
 }

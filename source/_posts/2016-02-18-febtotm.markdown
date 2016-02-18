@@ -1,0 +1,25 @@
+---
+layout: post
+title: "February Tune of the Month: Johnny's Friends are Ne'er Pleased"
+excerpt:
+date: 2016-02-18 11:43:30 -0600
+comments: true
+categories:
+---
+Happy February! Our inaugural tune of the month is the most unsatisfying tune I've ever played: rhythm is funky, the harmony is ungrounded, and the ending is a complete surprise. But it's a braw choon anyway!
+
+The only published copy that we know of is in [Part Fourth of Gow's Complete Repository](http://hms.scot/fiddle/source/102/). It was published around 1817—ten years after Niel's death—so presumably Nathaniel selected it.
+
+Anyway, I hope you are thoroughly displeased by the tune! (But still enjoy it)
+
+<figure>
+  <a href="assets/jfanp.jpg">
+    {% img assets/jfanp.jpg  %}
+  </a>
+</figure>
+
+<div class="video-player">
+  <figure>
+    <iframe width="640" height="360" src="//www.youtube.com/embed/MLv6K-RmfuU" frameborder="0" allowfullscreen></iframe>
+  </figure>
+</div>
