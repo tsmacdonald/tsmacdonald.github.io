@@ -25,7 +25,7 @@ have taken him from New York City's Frick Collection to the 1770s Ox Bow
 Tavern, countless Scottish country dances, The National Centre of Excellence in
 Traditional Music on the West Coast of Scotland, WQXR classical radio, BBC
 Scotland's *Take the Floor*, and beyond. In 2015 he formed a period-instrument
-Scottish fiddle duo with with [Jeremy Ward](http://www.jeremydavidward.com),
+Scottish fiddle duo with bass violinist [Jeremy Ward](http://www.jeremydavidward.com),
 and they now perform regularly all over Chicago, the US, and the world.
 
 
