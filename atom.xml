@@ -4,7 +4,7 @@
   <title><![CDATA[T. S. Macdonald]]></title>
   <link href="http://tsmacdonald.com/atom.xml" rel="self"/>
   <link href="http://tsmacdonald.com/"/>
-  <updated>2016-04-14T00:48:08-05:00</updated>
+  <updated>2016-05-12T23:17:08-05:00</updated>
   <id>http://tsmacdonald.com/</id>
   <author>
     <name><![CDATA[Tim Macdonald]]></name>
@@ -12,6 +12,134 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[On Syncopation]]></title>
+    <link href="http://tsmacdonald.com/blog/2016/05/12/syncopation/"/>
+    <updated>2016-05-12T22:13:20-05:00</updated>
+    <id>http://tsmacdonald.com/blog/2016/05/12/syncopation</id>
+    <content type="html"><![CDATA[<p>I was recently asked to defend my use of syncopation while playing the reel
+&ldquo;The Miller&rdquo;, and rather than using the convenient fallbacks of, &ldquo;Well, this is
+the tradition, and my teacher&rsquo;s teacher&rsquo;s teacher's…teachers include Niel Gow and
+Corelli&rdquo; (a horrible argument for anyone who claims to practice
+historically-informed performance, as can be verified by spending ten seconds
+listening to my more immediate musical ancestors, Hector MacAndrew and Eugène
+Ysaÿe) or &ldquo;I have a paid research fellowship at a prestigious institution to
+study this nonsense, so bugger off&rdquo; I figured I should actually, you know,
+respond appropriately.</p>
+
+<p>This is a specific topic that I plan to discuss in the paper I&rsquo;m writing for my
+work at the Newberry Library; unfortunately I haven&rsquo;t gotten there yet. So
+please consider this post to be a loose collection of thoughts pending further
+exploration to take place by the end of June.</p>
+
+<p>Any discussion of Scottish rhythm should start with Philip Tagg&rsquo;s wonderful
+documentary on Scotch snaps. Unfortunately, though <a href="https://www.youtube.com/watch?v=XHB3pA7iCSg&amp;feature=youtu.be&amp;t=880">he has a very nice
+discussion of
+polyrhythm</a>,
+he doesn&rsquo;t address syncopation per se. We must turn to primary sources.</p>
+
+<p>My Newberry research is focused on Robert Mackintosh&rsquo;s second collection
+(&ldquo;Sixty eight new Reels Strathspeys Quicksteps…&rdquo;), and it&rsquo;s loaded with nice
+examples. His reels, for example, universally tie together consecutive eighth
+notes of the same value.  The first page demonstrates this nicely with &ldquo;The
+Jockey Club&rdquo;:</p>
+
+<figure>
+  <a href="http://tsmacdonald.com/assets/jockey-club.png">
+    <img src="http://tsmacdonald.com/assets/jockey-club.png" title="" >
+  </a>
+</figure>
+
+
+<p>The effect is intensified in the last reel of the collection, &ldquo;Miss Betty
+Robertson&rsquo;s Reel&rdquo;, by adding in dotted quarter notes and eighth note groups
+slurred in threes. The first half of bar four is also worth highlighting—while
+it looks like four straight eighth notes, the descending figure ending with the
+open D string gives it a nice off-beat flavor.</p>
+
+<figure>
+  <a href="http://tsmacdonald.com/assets/betty-robertson.png">
+    <img src="http://tsmacdonald.com/assets/betty-robertson.png" title="" >
+  </a>
+</figure>
+
+
+<p>Moving on from reels, we see that the same &ldquo;tie the same note across the beat&rdquo; rule
+holds for jigs. No further comment necessary:</p>
+
+<figure>
+  <a href="http://tsmacdonald.com/assets/miss-grant.png">
+    <img src="http://tsmacdonald.com/assets/miss-grant.png" title="" >
+  </a>
+</figure>
+
+
+
+
+<figure>
+  <a href="http://tsmacdonald.com/assets/john-trotter.png">
+    <img src="http://tsmacdonald.com/assets/john-trotter.png" title="" >
+  </a>
+</figure>
+
+
+
+
+<figure>
+  <a href="http://tsmacdonald.com/assets/james-hamilton.png">
+    <img src="http://tsmacdonald.com/assets/james-hamilton.png" title="" >
+  </a>
+</figure>
+
+
+<p>There&rsquo;s not too much chamber music in the collection, but &ldquo;The Duchess of Gordon&rsquo;s Delight&rdquo;
+does have a nice syncopated section as part of a variation:</p>
+
+<figure>
+  <a href="http://tsmacdonald.com/assets/duchess-gordon.png">
+    <img src="http://tsmacdonald.com/assets/duchess-gordon.png" title="" >
+  </a>
+</figure>
+
+
+<p>And finally, the one 4/4 hornpipe has a less-obvious form of syncopation. Rather than the traditional
+&ldquo;pom-pom-pom&rdquo; figure of three quarter notes every few bars, Mackintosh opts for the &ldquo;pom-paaaaah&rdquo; of
+a quarter note followed by a half note:</p>
+
+<figure>
+  <a href="http://tsmacdonald.com/assets/john-trotter-hornpipe.png">
+    <img src="http://tsmacdonald.com/assets/john-trotter-hornpipe.png" title="" >
+  </a>
+</figure>
+
+
+<p>Regarding strathspeys, arguments could be made that the arrow stroke (which
+Mackintosh provides ample opportunity for) is a form of syncopation, but I
+don&rsquo;t want to go there. The other tune forms prove my point well enough.</p>
+
+<p>I have Mackintosh on the brain since my fellowship&rsquo;s about him, but I don&rsquo;t
+want to give the impression that he&rsquo;s the sole torchbearer of Scottish
+syncopation. <a href="blog/2016/02/18/febtotm/">February&rsquo;s Tune of the Month</a> has
+wild syncopation courtesy of the Gows, and you can also see it in such
+diverse places as Bremner&rsquo;s wonderfully-Scottish variations on &ldquo;The East Neuk
+of Fife&rdquo; (unfortunately I no longer have a copy handy) and Alexander Munro&rsquo;s
+Italianate variations on &ldquo;Bonny Jean of Aberdeen&rdquo;:</p>
+
+<figure>
+  <a href="http://tsmacdonald.com/assets/bonny-jean.png">
+    <img src="http://tsmacdonald.com/assets/bonny-jean.png" title="" >
+  </a>
+</figure>
+
+
+<p>Future work involves finding examples of instances that <em>could</em> have been
+syncopated but weren&rsquo;t (e.g., a composer who sometimes-but-not-always ties
+eighth notes together the way Mackintosh does), but for now it looks like
+syncopation in various forms was a mainstay of 18th century Scottish violin
+music.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[March Tune of the Month: The Highland Watch, now the 42d. Regt. or Royal Highlanders]]></title>
