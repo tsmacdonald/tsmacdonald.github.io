@@ -7,7 +7,7 @@ comments: true
 categories:
 ---
 <figure class="center">
-  <a href="/assets/febcow.jpg">
+  <a href="/assets/march-2016-cow.jpg">
     {% img /assets/march-2016-cow.jpg  %}
   </a>
 </figure>
