@@ -98,7 +98,7 @@ don't want to go there. The other tune forms prove my point well enough.
 
 I have Mackintosh on the brain since my fellowship's about him, but I don't
 want to give the impression that he's the sole torchbearer of Scottish
-syncopation. [February's Tune of the Month](blog/2016/02/18/febtotm/) has
+syncopation. [February's Tune of the Month](/blog/2016/02/18/febtotm/) has
 wild syncopation courtesy of the Gows, and you can also see it in such
 diverse places as Bremner's wonderfully-Scottish variations on "The East Neuk
 of Fife" (unfortunately I no longer have a copy handy) and Alexander Munro's
