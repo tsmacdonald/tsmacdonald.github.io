@@ -1,0 +1,58 @@
+---
+layout: post
+title: "May Tune of the Month: Staten Island"
+date: 2016-05-21 00:00:49 -0500
+excerpt:
+comments: true
+categories:
+---
+
+<figure class="center">
+  <a href="/assets/may-2016-cow.jpg">
+    {% img /assets/may-2016-cow.jpg  %}
+  </a>
+</figure>
+
+Happy May, and more importantly, happy World Fiddle Day and World Whisky Day (both on May 21)! To celebrate we chose a
+tune loved by many fiddlers across many genres, "Staten Island".
+
+<div class="video-player">
+  <figure>
+    <iframe width="640" height="360" src="//www.youtube.com/embed/IiFKNMBi0bE" frameborder="0" allowfullscreen></iframe>
+  </figure>
+</div>
+
+The title is almost certainly a reference to the island in New York; I don't know of any other Staten Islands, and the
+colonies were certainly on the radar of Scottish tune-publishers (the Aird collection&mdash;where the tune was first
+published&mdash;was well-loved in America, and Robert Mackintosh went so far as to compose and publish "The 4th of July
+or Anniversary of American Independence" a decade later).
+
+<figure>
+  <a href="/assets/aird-cover.png">
+    {% img /assets/aird-cover.png  %}
+  </a>
+</figure>
+
+Charlie Gore claims that it has an alternate title of "Burn's Hornpipe", but I haven't seen that in print. It may be
+listed as such in the Middleton collection of 1870, which I don't have access too. I can say more certainly, though,
+that it appears as "Staten Island" in the second Aird collection (1782) and its c. 1800 reprint by Joseph MacFadyen.
+
+No bass line was included, but Jeremy obligingly made one up.
+
+Here it is by Aird:
+
+<figure>
+  <a href="/assets/staten-island-aird.png">
+    {% img /assets/staten-island-aird.png  %}
+  </a>
+</figure>
+
+And here it is looking virtually identical courtesy of MacFadyen:
+
+<figure>
+  <a href="/assets/staten-island-macfadyen.png">
+    {% img /assets/staten-island-macfadyen.png  %}
+  </a>
+</figure>
+
+But enough fiddling, time to take advantage of World Whisky Day!
