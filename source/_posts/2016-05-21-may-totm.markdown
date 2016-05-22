@@ -18,13 +18,13 @@ tune loved by many fiddlers across many genres, "Staten Island".
 
 <div class="video-player">
   <figure>
-    <iframe width="640" height="360" src="//www.youtube.com/embed/j4RMlUx8tkI" frameborder="0" allowfullscreen></iframe>
+    <iframe width="640" height="360" src="//www.youtube.com/embed/IiFKNMBi0bE" frameborder="0" allowfullscreen></iframe>
   </figure>
 </div>
 
 The title is almost certainly a reference to the island in New York; I don't know of any other Staten Islands, and the
-colonies were certainly on the radar of Scottish tune-publishers (the Aird collection&emdash;where the tune was first
-published&emdash;was well-loved in America, and Robert Mackintosh went so far as to compose and publish "The 4th of July
+colonies were certainly on the radar of Scottish tune-publishers (the Aird collection&mdash;where the tune was first
+published&mdash;was well-loved in America, and Robert Mackintosh went so far as to compose and publish "The 4th of July
 or Anniversary of American Independence" a decade later).
 
 <figure>
