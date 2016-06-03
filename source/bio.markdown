@@ -23,10 +23,12 @@ Petrov](http://susiepetrov.com/), [Colyn Fischer](http://www.scotsduo.com/),
 the [Bach and Beethoven Ensemble](http://www.bbensemble.org/), and many others
 have taken him from New York City's Frick Collection to the 1770s Ox Bow
 Tavern, countless Scottish country dances, The National Centre of Excellence in
-Traditional Music on the West Coast of Scotland, WQXR classical radio, BBC
-Scotland's *Take the Floor*, and beyond. In 2015 he formed a period-instrument
-Scottish fiddle duo with bass violinist [Jeremy Ward](http://www.jeremydavidward.com),
-and they now perform regularly all over Chicago, the US, and the world.
+Traditional Music on the West Coast of Scotland, and beyond. His radio appearances
+include WQXR classic radio (New York City), BBC Scotland's *Take the Floor*, and
+WBOM radio (Rockford, IL). In 2015 he formed [a period-instrument Scottish
+fiddle duo](http://www.jeremydavidward.com/tim-and-jeremy/) with bass violinist
+[Jeremy Ward](http://www.jeremydavidward.com), and they now perform regularly
+all over Chicago, the U.S., and the world.
 
 
 In addition to performing, Tim runs a private teaching studio and is on faculty at [The Jink and Diddle School of Scottish
