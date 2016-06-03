@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://tsmacdonald.com/sitemap.xml
+Sitemap: http://tsmacdonald.github.io/sitemap.xml

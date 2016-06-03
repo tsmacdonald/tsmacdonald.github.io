@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[T. S. Macdonald]]></title>
-  <link href="http://tsmacdonald.com/atom.xml" rel="self"/>
-  <link href="http://tsmacdonald.com/"/>
-  <updated>2016-05-22T00:41:19-05:00</updated>
-  <id>http://tsmacdonald.com/</id>
+  <link href="http://tsmacdonald.github.io/atom.xml" rel="self"/>
+  <link href="http://tsmacdonald.github.io/"/>
+  <updated>2016-06-02T23:42:34-05:00</updated>
+  <id>http://tsmacdonald.github.io/</id>
   <author>
     <name><![CDATA[Tim Macdonald]]></name>
     
@@ -15,12 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[May Tune of the Month: Staten Island]]></title>
-    <link href="http://tsmacdonald.com/blog/2016/05/21/may-totm/"/>
+    <link href="http://tsmacdonald.github.io/blog/2016/05/21/may-totm/"/>
     <updated>2016-05-21T00:00:49-05:00</updated>
-    <id>http://tsmacdonald.com/blog/2016/05/21/may-totm</id>
+    <id>http://tsmacdonald.github.io/blog/2016/05/21/may-totm</id>
     <content type="html"><![CDATA[<figure class="center">
-  <a href="http://tsmacdonald.com/assets/may-2016-cow.jpg">
-    <img src="http://tsmacdonald.com/assets/may-2016-cow.jpg" title="" >
+  <a href="http://tsmacdonald.github.io/assets/may-2016-cow.jpg">
+    <img src="http://tsmacdonald.github.io/assets/may-2016-cow.jpg" title="" >
   </a>
 </figure>
 
@@ -41,8 +41,8 @@ published&mdash;was well-loved in America, and Robert Mackintosh went so far as 
 or Anniversary of American Independence&rdquo; a decade later).</p>
 
 <figure>
-  <a href="http://tsmacdonald.com/assets/aird-cover.png">
-    <img src="http://tsmacdonald.com/assets/aird-cover.png" title="" >
+  <a href="http://tsmacdonald.github.io/assets/aird-cover.png">
+    <img src="http://tsmacdonald.github.io/assets/aird-cover.png" title="" >
   </a>
 </figure>
 
@@ -56,8 +56,8 @@ that it appears as &ldquo;Staten Island&rdquo; in the second Aird collection (17
 <p>Here it is by Aird:</p>
 
 <figure>
-  <a href="http://tsmacdonald.com/assets/staten-island-aird.png">
-    <img src="http://tsmacdonald.com/assets/staten-island-aird.png" title="" >
+  <a href="http://tsmacdonald.github.io/assets/staten-island-aird.png">
+    <img src="http://tsmacdonald.github.io/assets/staten-island-aird.png" title="" >
   </a>
 </figure>
 
@@ -65,8 +65,8 @@ that it appears as &ldquo;Staten Island&rdquo; in the second Aird collection (17
 <p>And here it is looking virtually identical courtesy of MacFadyen:</p>
 
 <figure>
-  <a href="http://tsmacdonald.com/assets/staten-island-macfadyen.png">
-    <img src="http://tsmacdonald.com/assets/staten-island-macfadyen.png" title="" >
+  <a href="http://tsmacdonald.github.io/assets/staten-island-macfadyen.png">
+    <img src="http://tsmacdonald.github.io/assets/staten-island-macfadyen.png" title="" >
   </a>
 </figure>
 
@@ -77,12 +77,12 @@ that it appears as &ldquo;Staten Island&rdquo; in the second Aird collection (17
   
   <entry>
     <title type="html"><![CDATA[April Tune of the Month: Johnnie Cope]]></title>
-    <link href="http://tsmacdonald.com/blog/2016/05/13/april-totm/"/>
+    <link href="http://tsmacdonald.github.io/blog/2016/05/13/april-totm/"/>
     <updated>2016-05-13T11:24:59-05:00</updated>
-    <id>http://tsmacdonald.com/blog/2016/05/13/april-totm</id>
+    <id>http://tsmacdonald.github.io/blog/2016/05/13/april-totm</id>
     <content type="html"><![CDATA[<figure class="center">
-  <a href="http://tsmacdonald.com/assets/april-2016-cow.jpg">
-    <img src="http://tsmacdonald.com/assets/april-2016-cow.jpg" title="" >
+  <a href="http://tsmacdonald.github.io/assets/april-2016-cow.jpg">
+    <img src="http://tsmacdonald.github.io/assets/april-2016-cow.jpg" title="" >
   </a>
 </figure>
 
@@ -109,8 +109,8 @@ as a composer and more as a collector curator of the best variations floating ar
 the original collection I&rsquo;d love to see it, but for now we must make do with Johnson&rsquo;s edited, bassless reprint:</p>
 
 <figure>
-  <a href="http://tsmacdonald.com/assets/johnnie-cope.png">
-    <img src="http://tsmacdonald.com/assets/johnnie-cope.png" title="" >
+  <a href="http://tsmacdonald.github.io/assets/johnnie-cope.png">
+    <img src="http://tsmacdonald.github.io/assets/johnnie-cope.png" title="" >
   </a>
 </figure>
 
@@ -125,9 +125,9 @@ competition I prefer letting the feel and tempo go where it will rather than enf
   
   <entry>
     <title type="html"><![CDATA[On Syncopation]]></title>
-    <link href="http://tsmacdonald.com/blog/2016/05/12/syncopation/"/>
+    <link href="http://tsmacdonald.github.io/blog/2016/05/12/syncopation/"/>
     <updated>2016-05-12T22:13:20-05:00</updated>
-    <id>http://tsmacdonald.com/blog/2016/05/12/syncopation</id>
+    <id>http://tsmacdonald.github.io/blog/2016/05/12/syncopation</id>
     <content type="html"><![CDATA[<p>I was recently asked to defend my use of syncopation while playing the reel
 &ldquo;The Miller&rdquo;, and rather than using the convenient fallbacks of, &ldquo;Well, this is
 the tradition, and my teacher&rsquo;s teacher&rsquo;s teacher's…teachers include Niel Gow and
@@ -156,8 +156,8 @@ notes of the same value.  The first page demonstrates this nicely with &ldquo;Th
 Jockey Club&rdquo;:</p>
 
 <figure>
-  <a href="http://tsmacdonald.com/assets/jockey-club.png">
-    <img src="http://tsmacdonald.com/assets/jockey-club.png" title="" >
+  <a href="http://tsmacdonald.github.io/assets/jockey-club.png">
+    <img src="http://tsmacdonald.github.io/assets/jockey-club.png" title="" >
   </a>
 </figure>
 
@@ -169,8 +169,8 @@ it looks like four straight eighth notes, the descending figure ending with the
 open D string gives it a nice off-beat flavor.</p>
 
 <figure>
-  <a href="http://tsmacdonald.com/assets/betty-robertson.png">
-    <img src="http://tsmacdonald.com/assets/betty-robertson.png" title="" >
+  <a href="http://tsmacdonald.github.io/assets/betty-robertson.png">
+    <img src="http://tsmacdonald.github.io/assets/betty-robertson.png" title="" >
   </a>
 </figure>
 
@@ -179,8 +179,8 @@ open D string gives it a nice off-beat flavor.</p>
 holds for jigs. No further comment necessary:</p>
 
 <figure>
-  <a href="http://tsmacdonald.com/assets/miss-grant.png">
-    <img src="http://tsmacdonald.com/assets/miss-grant.png" title="" >
+  <a href="http://tsmacdonald.github.io/assets/miss-grant.png">
+    <img src="http://tsmacdonald.github.io/assets/miss-grant.png" title="" >
   </a>
 </figure>
 
@@ -188,8 +188,8 @@ holds for jigs. No further comment necessary:</p>
 
 
 <figure>
-  <a href="http://tsmacdonald.com/assets/john-trotter.png">
-    <img src="http://tsmacdonald.com/assets/john-trotter.png" title="" >
+  <a href="http://tsmacdonald.github.io/assets/john-trotter.png">
+    <img src="http://tsmacdonald.github.io/assets/john-trotter.png" title="" >
   </a>
 </figure>
 
@@ -197,8 +197,8 @@ holds for jigs. No further comment necessary:</p>
 
 
 <figure>
-  <a href="http://tsmacdonald.com/assets/james-hamilton.png">
-    <img src="http://tsmacdonald.com/assets/james-hamilton.png" title="" >
+  <a href="http://tsmacdonald.github.io/assets/james-hamilton.png">
+    <img src="http://tsmacdonald.github.io/assets/james-hamilton.png" title="" >
   </a>
 </figure>
 
@@ -207,8 +207,8 @@ holds for jigs. No further comment necessary:</p>
 does have a nice syncopated section as part of a variation:</p>
 
 <figure>
-  <a href="http://tsmacdonald.com/assets/duchess-gordon.png">
-    <img src="http://tsmacdonald.com/assets/duchess-gordon.png" title="" >
+  <a href="http://tsmacdonald.github.io/assets/duchess-gordon.png">
+    <img src="http://tsmacdonald.github.io/assets/duchess-gordon.png" title="" >
   </a>
 </figure>
 
@@ -218,8 +218,8 @@ does have a nice syncopated section as part of a variation:</p>
 a quarter note followed by a half note:</p>
 
 <figure>
-  <a href="http://tsmacdonald.com/assets/john-trotter-hornpipe.png">
-    <img src="http://tsmacdonald.com/assets/john-trotter-hornpipe.png" title="" >
+  <a href="http://tsmacdonald.github.io/assets/john-trotter-hornpipe.png">
+    <img src="http://tsmacdonald.github.io/assets/john-trotter-hornpipe.png" title="" >
   </a>
 </figure>
 
@@ -230,15 +230,15 @@ don&rsquo;t want to go there. The other tune forms prove my point well enough.</
 
 <p>I have Mackintosh on the brain since my fellowship&rsquo;s about him, but I don&rsquo;t
 want to give the impression that he&rsquo;s the sole torchbearer of Scottish
-syncopation. <a href="http://tsmacdonald.com/blog/2016/02/18/febtotm/">February&rsquo;s Tune of the Month</a> has
+syncopation. <a href="http://tsmacdonald.github.io/blog/2016/02/18/febtotm/">February&rsquo;s Tune of the Month</a> has
 wild syncopation courtesy of the Gows, and you can also see it in such
 diverse places as Bremner&rsquo;s wonderfully-Scottish variations on &ldquo;The East Neuk
 of Fife&rdquo; (unfortunately I no longer have a copy handy) and Alexander Munro&rsquo;s
 Italianate variations on &ldquo;Bonny Jean of Aberdeen&rdquo;:</p>
 
 <figure>
-  <a href="http://tsmacdonald.com/assets/bonny-jean.png">
-    <img src="http://tsmacdonald.com/assets/bonny-jean.png" title="" >
+  <a href="http://tsmacdonald.github.io/assets/bonny-jean.png">
+    <img src="http://tsmacdonald.github.io/assets/bonny-jean.png" title="" >
   </a>
 </figure>
 
@@ -253,12 +253,12 @@ music.</p>
   
   <entry>
     <title type="html"><![CDATA[March Tune of the Month: The Highland Watch, now the 42d. Regt. or Royal Highlanders]]></title>
-    <link href="http://tsmacdonald.com/blog/2016/03/24/march-2016-totm/"/>
+    <link href="http://tsmacdonald.github.io/blog/2016/03/24/march-2016-totm/"/>
     <updated>2016-03-24T22:42:38-05:00</updated>
-    <id>http://tsmacdonald.com/blog/2016/03/24/march-2016-totm</id>
+    <id>http://tsmacdonald.github.io/blog/2016/03/24/march-2016-totm</id>
     <content type="html"><![CDATA[<figure class="center">
-  <a href="http://tsmacdonald.com/assets/march-2016-cow.jpg">
-    <img src="http://tsmacdonald.com/assets/march-2016-cow.jpg" title="" >
+  <a href="http://tsmacdonald.github.io/assets/march-2016-cow.jpg">
+    <img src="http://tsmacdonald.github.io/assets/march-2016-cow.jpg" title="" >
   </a>
 </figure>
 
@@ -266,8 +266,8 @@ music.</p>
 <p>March has come! Here&rsquo;s a tune of indeterminate type that opens up <a href="http://hms.scot/fiddle/copy/10/">Part First of Gow&rsquo;s Complete Repository</a>. We decided to treat it as a slow march and think it turned out nicely.</p>
 
 <figure>
-  <a href="http://tsmacdonald.com/assets/highland-watch.png">
-    <img src="http://tsmacdonald.com/assets/highland-watch.png" title="" >
+  <a href="http://tsmacdonald.github.io/assets/highland-watch.png">
+    <img src="http://tsmacdonald.github.io/assets/highland-watch.png" title="" >
   </a>
 </figure>
 
@@ -285,9 +285,9 @@ music.</p>
   
   <entry>
     <title type="html"><![CDATA[Folk and Baroque: Tim and Jeremy's Trip to Scotland]]></title>
-    <link href="http://tsmacdonald.com/blog/2016/02/18/triptoscotland/"/>
+    <link href="http://tsmacdonald.github.io/blog/2016/02/18/triptoscotland/"/>
     <updated>2016-02-18T12:01:55-06:00</updated>
-    <id>http://tsmacdonald.com/blog/2016/02/18/triptoscotland</id>
+    <id>http://tsmacdonald.github.io/blog/2016/02/18/triptoscotland</id>
     <content type="html"><![CDATA[<blockquote>
 Fiddlers! Your pegs in temper fix, <br>
 And rosin well your fiddlesticks, <br>
@@ -311,8 +311,8 @@ Scottish fiddling, Niel Gow (1727-1807), first achieved fame by winning an open
 fiddle competition in Perth in 1745.</p>
 
 <figure class="center">
-  <a href="http://tsmacdonald.com/assets/blaircastle.jpg">
-    <img src="http://tsmacdonald.com/assets/blaircastle.jpg" title="" >
+  <a href="http://tsmacdonald.github.io/assets/blaircastle.jpg">
+    <img src="http://tsmacdonald.github.io/assets/blaircastle.jpg" title="" >
   </a>
 </figure>
 
@@ -327,8 +327,8 @@ members, judged silently by Niel&rsquo;s oil-painted eyes, and ranked by three
 adjudicators.</p>
 
 <figure class="right">
-  <a href="http://tsmacdonald.com/assets/gow.jpg">
-    <img src="http://tsmacdonald.com/assets/gow.jpg" title="" >
+  <a href="http://tsmacdonald.github.io/assets/gow.jpg">
+    <img src="http://tsmacdonald.github.io/assets/gow.jpg" title="" >
   </a>
 </figure>
 
@@ -366,8 +366,8 @@ finally beginning to get the academic treatment and public performance it
 deserves.</p>
 
 <figure class="right">
-  <a href="http://tsmacdonald.com/assets/nomorefun.jpg">
-    <img src="http://tsmacdonald.com/assets/nomorefun.jpg" title="" >
+  <a href="http://tsmacdonald.github.io/assets/nomorefun.jpg">
+    <img src="http://tsmacdonald.github.io/assets/nomorefun.jpg" title="" >
   </a>
 </figure>
 
@@ -390,8 +390,8 @@ laid-back approach and tried to communicate the joviality of the music with our
 bodies, faces, and gestures—not just the notes coming out of our instruments.</p>
 
 <figure class="center">
-  <a href="http://tsmacdonald.com/assets/glenfiddich.jpg">
-    <img src="http://tsmacdonald.com/assets/glenfiddich.jpg" title="" >
+  <a href="http://tsmacdonald.github.io/assets/glenfiddich.jpg">
+    <img src="http://tsmacdonald.github.io/assets/glenfiddich.jpg" title="" >
   </a>
 </figure>
 
@@ -419,8 +419,8 @@ anyway</a>), but because
 there was some good music played then and it&rsquo;d be a shame to forget about it.</p>
 
 <figure class="right">
-  <a href="http://tsmacdonald.com/assets/nls.jpg">
-    <img src="http://tsmacdonald.com/assets/nls.jpg" title="" >
+  <a href="http://tsmacdonald.github.io/assets/nls.jpg">
+    <img src="http://tsmacdonald.github.io/assets/nls.jpg" title="" >
   </a>
 </figure>
 
@@ -460,8 +460,8 @@ one, and ultimately I think we’re forced to put our faith in the good taste of
 artists and listeners.</p>
 
 <figure class="center">
-  <a href="http://tsmacdonald.com/assets/olh.jpg">
-    <img src="http://tsmacdonald.com/assets/olh.jpg" title="" >
+  <a href="http://tsmacdonald.github.io/assets/olh.jpg">
+    <img src="http://tsmacdonald.github.io/assets/olh.jpg" title="" >
   </a>
 </figure>
 
@@ -520,12 +520,12 @@ Lifeless is he wha canna feel <br>
   
   <entry>
     <title type="html"><![CDATA[February Tune of the Month: Johnny's Friends are Ne'er Pleased]]></title>
-    <link href="http://tsmacdonald.com/blog/2016/02/18/febtotm/"/>
+    <link href="http://tsmacdonald.github.io/blog/2016/02/18/febtotm/"/>
     <updated>2016-02-18T11:43:30-06:00</updated>
-    <id>http://tsmacdonald.com/blog/2016/02/18/febtotm</id>
+    <id>http://tsmacdonald.github.io/blog/2016/02/18/febtotm</id>
     <content type="html"><![CDATA[<figure class="center">
-  <a href="http://tsmacdonald.com/assets/febcow.jpg">
-    <img src="http://tsmacdonald.com/assets/febcow.jpg" title="" >
+  <a href="http://tsmacdonald.github.io/assets/febcow.jpg">
+    <img src="http://tsmacdonald.github.io/assets/febcow.jpg" title="" >
   </a>
 </figure>
 
@@ -537,8 +537,8 @@ Lifeless is he wha canna feel <br>
 <p>Anyway, I hope you are thoroughly displeased by the tune! (But still enjoy it)</p>
 
 <figure>
-  <a href="http://tsmacdonald.com/assets/jfanp.png">
-    <img src="http://tsmacdonald.com/assets/jfanp.png" title="" >
+  <a href="http://tsmacdonald.github.io/assets/jfanp.png">
+    <img src="http://tsmacdonald.github.io/assets/jfanp.png" title="" >
   </a>
 </figure>
 
