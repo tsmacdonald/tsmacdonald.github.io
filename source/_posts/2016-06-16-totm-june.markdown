@@ -1,0 +1,44 @@
+---
+layout: post
+title: "June Tunes of the Month by Abraham Mackintosh"
+date: 2016-06-16 09:46:52 -0500
+comments: true
+excerpt:
+categories:
+---
+
+<div class="video-player">
+  <figure>
+    <iframe width="640" height="360" src="//www.youtube.com/embed/5nokbc6wn3E" frameborder="0" allowfullscreen></iframe>
+  </figure>
+</div>
+
+Happy birthday, Abraham Mackintosh! He was born on either June 15 or June 18 in
+1769, so we're splitting the difference, and was the son of the better-known
+Robert Mackintosh. Baptie writes that he was a "composer of ability", which is
+certainly true. He published either two (Gore) or three (Baptie) collections of
+tunes (featuring both his own compositions and other popular favorites), and he
+also appears fleetingly in his father's third collection under the name
+"Mackintosh Junior".
+
+His best-known tune is "Athole Brose", but we decided to highlight two lesser-known
+but still excellent tunes: "Miss Hood's Strathspey" and "Miss Brandling of Gosforth's
+Reel", both from his "Collection of Strathspeys, Reels, Jigs &c" of 1805.
+
+<figure>
+  <a href="/assets/amackintosh-cover.png">
+    {% img /assets/amackintosh-cover.png  %}
+  </a>
+</figure>
+
+<figure>
+  <a href="/assets/miss-hood.png">
+    {% img /assets/miss-hood.png  %}
+  </a>
+</figure>
+
+<figure>
+  <a href="/assets/miss-brandling.png">
+    {% img /assets/miss-brandling.png  %}
+  </a>
+</figure>
