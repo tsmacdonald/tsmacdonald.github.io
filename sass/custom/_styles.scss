@@ -82,13 +82,23 @@ figure.center {
   margin: 0 auto;
   max-width: 50%;
 }
+
 figure.macdonald-collection {
   max-width: 75%;
 }
 
+figcaption {
+  font-size: 10pt;
+}
+
+
 article .entry-content table.calendar {
   background: none;
   border: none;
+}
+
+.separated {
+  margin-top: 1em;
 }
 
 article .entry-content table.calendar tr:nth-of-type(2n) {
@@ -153,6 +163,26 @@ article .entry-content table.calendar tr:nth-of-type(2n) {
     .container .mid-col:after {
       background: {
         image: url(/assets/calendar-background.jpg);
+        position: top center;
+        repeat: no-repeat;
+        size: cover;
+      }
+      content: "";
+      display: block;
+      height: 100%;
+      position: fixed;
+      right: 0;
+      top: 0;
+      width: 25.2%; /* 72% width column * 35% of the column's free space (since this is position: fixed) */
+    }
+  }
+}
+
+.colonial-page {
+  @media only screen and (min-width: 900px) {
+    .container .mid-col:after {
+      background: {
+        image: url(/assets/hero.jpg);
         position: top center;
         repeat: no-repeat;
         size: cover;
