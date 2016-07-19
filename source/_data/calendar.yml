@@ -504,6 +504,50 @@
     title: "Two concerts at the [Jane Austen Festival](http://jasnalouisville.com/2016-jane-austen-festival) with [Jeremy Ward](http://www.jeremydavidward.com)"
     location: Louisville, KY
 
+- season: 2016-2017
+  events:
+
   - date: 2016-07-24
     title: "Instructor at [The Jink and Diddle School of Scottish Fiddling](http://jinkdiddle.com/)"
     location: Valle Crucis, NC
+
+
+  - date: 2016-08-06
+    time: 10am
+    title: "Tim Macdonald and [Rachel Barton Pine](http://rachelbartonpine.com/) play at [The Scottish Home Picnic](http://www.thescottishhome.org/)"
+    location: "[The Scottish Home](http://www.thescottishhome.org/), 2800 Desplaines Ave, North Riverside, IL"
+
+  - date: 2016-08-22
+    time: 7pm
+    title: "Tim Macdonald & Jeremy Ward (The Fightin' Seahorses) play a contra dance"
+    location: "[The Irish American Heritage Center](http://irish-american.org/), Chicago, IL"
+
+  - date: 2016-08-27
+    time: 3:15pm
+    title: "Tim Macdonald & Jeremy Ward at [Rogers Pork](http://rpublichouse.com/rogers-pork-barbecue-arts-music-festival/)"
+    location: "Jarvis Ave east of Ashland, Rogers Park, Chicago, IL"
+
+  - date: 2016-08-25
+    time: 5pm
+    title: "Tim Macdonald, Jeremy Ward, and [The BBE](http://www.bbensemble.org/) at a [Scottish Folk Night](http://www.bbensemble.org/new-events-1/2016/8/25/scottish-folk-night)"
+    location: "[Big Bricks](http://bigbrickschicago.com/), 3832 N Lincoln Ave, Chicago, IL"
+
+  - date: 2016-09-08
+    time: 5pm
+    title: "Tim Macdonald, Jeremy Ward, and [The BBE](http://www.bbensemble.org/) at a Scottish Folk Night"
+    location: "[The Scottish Home](http://www.thescottishhome.org/), 2800 Desplaines Ave, North Riverside, IL"
+
+  - date: 2016-09-10
+    time:
+    title: "*Tavern Music of the American War for Independence* with the [NWTA](http://www.nwta.com/event/cantigny/) at the [Ox Bow Tavern](https://www.facebook.com/Ox-Bow-Tavern-Living-History-716391548407769/)"
+    location: "[Cantigny Park](http://www.cantigny.org/), Wheaton, IL"
+
+  - date: 2016-09-24
+    time: 8pm
+    title: "[*The Gentle Shepherd*](http://www.bbensemble.org/new-events-1/2016/9/24/the-gentle-shepherd) with Tim Macdonald, Jeremy Ward, and [The BBE](http://www.bbensemble.org/)"
+    location: "[The Old Town School of Folk Music](https://www.oldtownschool.org/), 4544 N Lincoln Ave, Chicago, IL"
+
+  - date: 2016-09-24
+    time: 8pm
+    title: "[*The Gentle Shepherd*](http://www.bbensemble.org/new-events-1/2016/9/25/the-gentle-shepherd-2) with Tim Macdonald, Jeremy Ward, and [The BBE](http://www.bbensemble.org/)"
+    location: "[Theater Wit](https://www.theaterwit.org/), 1229 W Belmont Ave, Chicago, IL"
