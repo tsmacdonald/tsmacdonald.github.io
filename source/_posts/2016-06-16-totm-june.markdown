@@ -21,6 +21,12 @@ tunes (featuring both his own compositions and other popular favorites), and he
 also appears fleetingly in his father's third collection under the name
 "Mackintosh Junior".
 
+<figure>
+  <a href="/assets/june-cow.png">
+    {% img /assets/june-cow.png  %}
+  </a>
+</figure>
+
 His best-known tune is "Athole Brose", but we decided to highlight two lesser-known
 but still excellent tunes: "Miss Hood's Strathspey" and "Miss Brandling of Gosforth's
 Reel", both from his "Collection of Strathspeys, Reels, Jigs &c" of 1805.
