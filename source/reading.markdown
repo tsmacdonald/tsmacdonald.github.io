@@ -7,13 +7,13 @@ sharing: false
 footer: false
 ---
 
-# General Overviews of Scottish-Baroque Music
+## General Overviews of Scottish-Baroque Music
 
 * [*Music and Society in Lowland Scotland in the Eighteenth Century*](http://amzn.to/2bn731G) by David Johnson
 
 * [*Scottish Fiddle Music in the Eighteenth Century*](http://amzn.to/2aRy9Pa) by David Johnson (contains tunes)
 
-# Surveys of Scottish Music History
+## Surveys of Scottish Music History
 
 * [*Scotland's Music*](http://amzn.to/2b4tpn6) by John Purser. Note the later edition (published 2007, ISBN 1845961609; not the one published in 1992, ISBN 1851584269) (non-extortionate prices sometimes pop up on eBay or eBay.co.uk)
 
@@ -21,7 +21,7 @@ footer: false
 
 * [*The Traditional and National Music of Scotland*](http://amzn.to/2bdT8hk) by Francis Collinson
 
-# Composer-Specific Material
+## Composer-Specific Material
 
 * ["Sources for the Chamber Music of William McGibbon"](http://www.gla.ac.uk/media/media_333619_en.pdf) by Elizabeth Ford
 
@@ -29,7 +29,7 @@ footer: false
 
 * [*The Life and Times of William Marshall*](http://amzn.to/2b0lD0v) by Moyra Cowrie
 
-# Biography Collections
+## Biography Collections
 
 * ["Scottish Fiddlers and their Music"](http://amzn.to/2b0lD0v) by Mary Anne Alburger
 
@@ -39,7 +39,7 @@ footer: false
 
 * ["Scottish Violin Makers Past and Present"](http://amzn.to/2b0lv0S) by William Honeyman (non-extortionate prices may be found by contacting [Fiddletree](http://www.fiddletree-music.com/fiddletree/fiddletreestore.html))
 
-# Indexes and Music Sources
+## Indexes and Music Sources
 
 * [HMS.scot](http://hms.scot/) by David McGuinness et al.
 
@@ -49,7 +49,7 @@ footer: false
 
 * Most libraries will send scans or photocopies upon request; refer to HMS.scot or the Scottish Music Index to figure out which library to contact
 
-# Musicology
+## Musicology
 
 * ["Reeling in the Strathspey: The Origins of Scotland's National Music"](http://www.academia.edu/4007917/Reeling_in_the_Strathspey_The_Origins_of_Scotlands_National_Music) by William Lamb
 
@@ -65,19 +65,19 @@ footer: false
 
 * [*The Invention of 'Folk Music' and 'Art Music'*](http://amzn.to/2boQtkh) by Matthew Gelbart
 
-# Philosophy of Baroque Music-Making
+## Philosophy of Baroque Music-Making
 
 * [*The End of Early Music*](http://amzn.to/2aRAHwT) by Bruce Haynes
 
 * [*The Weapons of Rhetoric*](http://amzn.to/2aOsdng) by Judy Tarling
 
-# Playing the Baroque Violin
+## Playing the Baroque Violin
 
 * [*Baroque String Playing for Ingenious Learners*](http://amzn.to/2aOshmY) by Judy Tarling
 
 * [*Before the Chinrest: A Violinist's Guide to the Mysteries of Pre-Chinrest Technique and Style*](http://amzn.to/2bdVrAV) by Stanley Ritchie
 
-# Blogs of Note
+## Blogs of Note
 
 * [ScottishFiddleMusic.com](https://scottishfiddlemusic.com/) by Ronnie Gibson
 
