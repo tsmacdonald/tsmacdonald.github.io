@@ -61,6 +61,8 @@ footer: false
 
 * ["Scotch Snaps: The Big Picture"](http://tagg.org/ptavmat.htm#ScotchSnap), a documentary by Philip Tagg
 
+* ["Unravelling the Birl: Using Basic Computer Technology to Understand Traditional Fiddle Decorations"](http://www.academia.edu/7328128/Unraveling_the_Birl_using_basic_computer_technology_to_understand_traditional_fiddle_decorations) by Stuart Eydmann ([PDF here](http://aura.abdn.ac.uk/bitstream/handle/2164/5005/Play_It_Like_It_Is_2006_Ch._5_Eydmann_.pdf;jsessionid=0A5CF82D20A48A206F6E56B71812C599?sequence=1))
+
 * [*The Invention of 'Folk Music' and 'Art Music'*](http://amzn.to/2boQtkh) by Matthew Gelbart
 
 # Philosophy of Baroque Music-Making
@@ -94,3 +96,5 @@ footer: false
 *Disclaimer:* I don't stand behind every word in all of these sources (critical
 commentary will probably come at some point), but they nevertheless stand as
 important sources in the current Scottish-Baroque music scene.
+
+[Contact me](/contact.html) with suggestions for any edits or additions!
