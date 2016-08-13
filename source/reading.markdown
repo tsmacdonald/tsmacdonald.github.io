@@ -11,7 +11,7 @@ footer: false
 
 * [*Music and Society in Lowland Scotland in the Eighteenth Century*](http://amzn.to/2bn731G) by David Johnson
 
-* [*Scottish Fiddle Music of the Eighteenth Century*](http://amzn.to/2aRy9Pa) by David Johnson (contains tunes)
+* [*Scottish Fiddle Music in the Eighteenth Century*](http://amzn.to/2aRy9Pa) by David Johnson (contains tunes)
 
 # Surveys of Scottish Music History
 
