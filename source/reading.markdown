@@ -75,6 +75,20 @@ footer: false
 
 * [*Before the Chinrest: A Violinist's Guide to the Mysteries of Pre-Chinrest Technique and Style*](http://amzn.to/2bdVrAV) by Stanley Ritchie
 
+# Blogs of Note
+
+* [ScottishFiddleMusic.com](https://scottishfiddlemusic.com/) by Ronnie Gibson
+
+* [Fillocks, Fiddlers, and Others of that Band](https://fillocksfiddlers.com/) by Aaron McGregor
+
+* [The Fiddle in the Scottish Folk Music Revival](http://www.blogs.hss.ed.ac.uk/revival-fiddle/) by Stuart Eydmann
+
+* [A Scottish Musical Miscellany](http://scotchmusic.com/) by Stuart Eydmann
+
+* [Concerto Caledonia's Blog](http://www.concal.org/blog) by David McGuinness
+
+* [John Purser's Blog](http://www.concal.org/blog)
+
 <hr>
 
 *Disclaimer:* I don't stand behind every word in all of these sources (critical
