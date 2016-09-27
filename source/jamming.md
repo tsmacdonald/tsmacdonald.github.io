@@ -8,7 +8,7 @@ footer: false
 ---
 In collaboration with the [Illinois St. Andrew
 Society](http://www.chicagoscots.org/), Tim is leading a Scottish jam session
-every Tuesday evening.
+on certain Tuesdays, including October 4 and 11.
 
 All sessions will take place at the [Duke of Perth](http://dukeofperth.com/) in
 Lincoln Park (2913 N Clark St), begin at 7PM, and run until 9 or so.  Everyone
