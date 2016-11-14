@@ -6,6 +6,13 @@ comments: false
 sharing: false
 footer: false
 ---
+
+<figure>
+  <a href="assets/dopjam.jpg">
+    {% img assets/dopjam.jpg %}
+  </a>
+</figure>
+
 In collaboration with the [Illinois St. Andrew
 Society](http://www.chicagoscots.org/), Tim is leading a Scottish jam session
 on certain Tuesdays.
