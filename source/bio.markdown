@@ -4,9 +4,9 @@ title: "Biography"
 date: 2014-05-17 14:57
 comments: false
 sharing: false
+ogimage: "assets/tsmjdw.jpg"
 footer: false
 ---
-<meta property="og:image" content="assets/tsmjdw.jpg" />
 
 <figure class="fiddles">
   <a href="assets/fiddles.jpg">

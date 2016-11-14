@@ -4,10 +4,9 @@ title: "Chicago Scottish Jam"
 date: 2014-05-17 15:52
 comments: false
 sharing: false
+ogimage: "assets/dopjam.jpg"
 footer: false
 ---
-
-<meta property="og:image" content="assets/dopjam.jpg" />
 
 <figure>
   <a href="assets/dopjam.jpg">
