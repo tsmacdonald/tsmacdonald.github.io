@@ -7,6 +7,8 @@ sharing: false
 footer: false
 ---
 
+<meta property="og:image" content="assets/dopjam.jpg" />
+
 <figure>
   <a href="assets/dopjam.jpg">
     {% img assets/dopjam.jpg %}

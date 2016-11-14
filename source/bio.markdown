@@ -6,6 +6,8 @@ comments: false
 sharing: false
 footer: false
 ---
+<meta property="og:image" content="assets/tsmjdw.jpg" />
+
 <figure class="fiddles">
   <a href="assets/fiddles.jpg">
     {% img assets/fiddles.jpg  %}
