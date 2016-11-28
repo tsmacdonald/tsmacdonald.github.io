@@ -26,8 +26,12 @@ probably play](assets/jam-tunes.pdf).
 
 ## Upcoming Dates
 
-* November 15
-
 * November 29
 
-* December TBD
+* December 6
+
+* December 20
+
+* January 17
+
+* January 31
