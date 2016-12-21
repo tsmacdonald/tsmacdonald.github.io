@@ -26,10 +26,8 @@ probably play](assets/jam-tunes.pdf).
 
 ## Upcoming Dates
 
-* December 20 (@ A=415hz)
+* January 3
 
-* January 3 (back to A=440hz)
-
-* January 24 (Burns Night!)
+* January 24 (Burns Night! No jam as such, but come anyway!)
 
 * January 31
