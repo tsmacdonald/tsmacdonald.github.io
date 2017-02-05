@@ -26,8 +26,11 @@ probably play](assets/jam-tunes.pdf).
 
 ## Upcoming Dates
 
-* January 3
 
-* January 24 (Burns Night! No jam as such, but come anyway!)
+* February 7
 
-* January 31
+* February 14
+
+* March 7
+
+* March 14
