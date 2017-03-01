@@ -17,6 +17,8 @@ group :development do
   gem 'liquid'
   gem 'directory_watcher', '1.4.1'
   gem 'nokogiri'
+  gem 'execjs'
+  gem 'therubyracer'
 end
 
 gem 'sinatra', '~> 1.4.2'
