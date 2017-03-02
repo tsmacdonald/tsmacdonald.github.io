@@ -14,8 +14,8 @@ categories:
 </div>
 
 This is the first Scottish-style tune I ever wrote, and it happened in Colyn Fischer's living room after he firmly told me that tune-writing really wasn't
-all that hard and I should just give it a try. This happened shortly before my sister Parry had a birthday, so I decided to give her the tune to honor the
-occasion (well, and she's pretty cool and worthy of tune dedications in general).
+all that hard and I should just give it a try. This was shortly before my sister Parry had a birthday, so I decided to give her the tune to honor the
+occasion (well, and she's pretty cool and generally worthy of tune dedications).
 
 <figure>
   <a href="/assets/september-2016-cow.jpg">
@@ -23,7 +23,7 @@ occasion (well, and she's pretty cool and worthy of tune dedications in general)
   </a>
 </figure>
 
-There's really not much more to say. It's been collected into my [Book o' Tunes](/tunes.html), in case you're interested.
+I feel obligated to mention the original source, even though it's only from 2014: my [Book o' Tunes](/tunes.html). There's really not much more to say.
 
 <figure>
   <a href="/assets/parry-birthday.png">
