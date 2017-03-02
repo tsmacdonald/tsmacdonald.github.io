@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://tsmacdonald.com/blog/2017/03/02/totm-october/</loc>
+    <lastmod>2017-03-02T11:18:13-06:00</lastmod>
+  </url>
+  <url>
     <loc>http://tsmacdonald.com/blog/2017/03/01/totm-september/</loc>
     <lastmod>2017-03-01T12:48:32-06:00</lastmod>
   </url>
@@ -84,5 +88,8 @@
   </url>
   <url>
     <loc>http://tsmacdonald.com/video.html</loc>
+  </url>
+  <url>
+    <loc>http://tsmacdonald.com/posts/2/</loc>
   </url>
 </urlset>
