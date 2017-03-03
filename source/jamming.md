@@ -26,12 +26,6 @@ probably play](assets/jam-tunes.pdf).
 
 ## Upcoming Dates
 
-
-
-* February 14
-
-* February 28
-
 * March 14
 
-* March 28
+* May TBD
