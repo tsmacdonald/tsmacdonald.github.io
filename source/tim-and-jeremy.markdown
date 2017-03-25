@@ -22,10 +22,8 @@ In 2015 they toured Scotland, performing, teaching, and jamming at concert
 halls, schools, and pubs across the country.  They were a featured band at the
 2015 Chicago Highland Games and regularly perform at folk dances in Chicago.
 
-For more information about their individual accomplishments, see [Tim's bio](/bio.html)
-and [Jeremy's bio](http://www.jeremydavidward.com/about).
-
-[Follow them on Facebook here.](https://www.facebook.com/timnjeremy)
+[Follow them on Facebook here](https://www.facebook.com/timnjeremy), and visit
+their official website at [timandjeremy.com](http://www.timandjeremy.com).
 
 <div class="video-player">
   <figure>
