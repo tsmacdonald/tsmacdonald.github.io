@@ -27,10 +27,8 @@ probably play](assets/jam-tunes.pdf).
 ## Upcoming Dates
 
 
-* April 25
-
 * May 9
 
 * May 23
 
-* June 6
+* June 6 (at A=415hz)
