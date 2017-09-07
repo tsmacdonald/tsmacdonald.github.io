@@ -26,9 +26,4 @@ probably play](assets/jam-tunes.pdf).
 
 ## Upcoming Dates
 
-
-* May 9
-
-* May 23
-
-* June 6 (at A=415hz)
+* They're being scheduled for the fall, stay tuned!
