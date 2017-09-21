@@ -26,4 +26,10 @@ probably play](assets/jam-tunes.pdf).
 
 ## Upcoming Dates
 
-* They're being scheduled for the fall, stay tuned!
+* October 3
+* October 17
+* October 31
+* *none in November due to Tim traveling to Scotland*
+* December 5
+* December 19
+
