@@ -31,5 +31,5 @@ probably play](assets/jam-tunes.pdf).
 * October 31
 * *none in November due to Tim traveling to Scotland*
 * December 5
-* December 19
+* December 12
 
