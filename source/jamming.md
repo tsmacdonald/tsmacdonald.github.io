@@ -26,10 +26,21 @@ probably play](assets/jam-tunes.pdf).
 
 ## Upcoming Dates
 
-* October 3
-* October 17
-* October 31
-* *none in November due to Tim traveling to Scotland*
-* December 5
-* December 12
+* January 16
+
+* January 30
+
+* **Not February 13**
+
+* February 27
+
+* March 13
+
+* March 27
+
+* April 10
+
+* April 24 TBD
+
+* May 8, then summer recess
 
